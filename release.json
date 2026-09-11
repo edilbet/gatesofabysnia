@@ -14,8 +14,9 @@
   "maxBet": 4000,
   "productionInstance": "kassino_le_catcher_etb_prod",
   "catalogSlug": "le-catcher",
-  "sourceRevision": "7026cf3",
-  "backendRevision": "97b9a48",
-  "deploymentStatus": "Production release in progress",
-  "operatorIssuer": "kassino"
+  "sourceRevision": "ae8df89",
+  "backendRevision": "f9b9440",
+  "deploymentStatus": "Production balance fix prepared",
+  "operatorIssuer": "kassino",
+  "balancePolicy": "jwt-initial-coregames-placebet"
 }
