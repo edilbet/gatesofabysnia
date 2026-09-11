@@ -1,0 +1,146 @@
+{
+  "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
+  "reports": [
+    {
+      "betETB": 4,
+      "bonusRounds": 8543,
+      "effectiveMaxMultiplier": 100,
+      "hitPercent": 20.0843,
+      "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
+      "maxWinAmount": 100000,
+      "maxWinMultiplier": 100,
+      "maxWinRounds": 463,
+      "observedRtpPercent": 97.33143999999155,
+      "paidRounds": 1000000,
+      "payoutBuckets": {
+        "0": 799157,
+        "1-<5x": 103542,
+        "100x": 463,
+        "15-<50x": 4566,
+        "5-<15x": 79749,
+        "50-<100x": 1534,
+        ">0-<1x": 10989
+      },
+      "respinRounds": 52664,
+      "rtp95Percent": [
+        96.59827537872434,
+        98.06460462125874
+      ],
+      "seed": 970050,
+      "stakeShift": {
+        "fromTenths": 50,
+        "toTenths": 500,
+        "numerator": 0,
+        "denominator": 900000000
+      },
+      "theoreticalHitPercent": 20,
+      "theoreticalRtpPercent": 97.00000000000001,
+      "zeroWinPercent": 79.9157
+    },
+    {
+      "betETB": 1000,
+      "bonusRounds": 8543,
+      "effectiveMaxMultiplier": 100,
+      "hitPercent": 20.0843,
+      "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
+      "maxWinAmount": 100000,
+      "maxWinMultiplier": 100,
+      "maxWinRounds": 463,
+      "observedRtpPercent": 97.33143999999155,
+      "paidRounds": 1000000,
+      "payoutBuckets": {
+        "0": 799157,
+        "1-<5x": 103542,
+        "100x": 463,
+        "15-<50x": 4566,
+        "5-<15x": 79749,
+        "50-<100x": 1534,
+        ">0-<1x": 10989
+      },
+      "respinRounds": 52664,
+      "rtp95Percent": [
+        96.59827537872434,
+        98.06460462125874
+      ],
+      "seed": 970050,
+      "stakeShift": {
+        "fromTenths": 50,
+        "toTenths": 500,
+        "numerator": 0,
+        "denominator": 225000000000
+      },
+      "theoreticalHitPercent": 20,
+      "theoreticalRtpPercent": 97.00000000000001,
+      "zeroWinPercent": 79.9157
+    },
+    {
+      "betETB": 2000,
+      "bonusRounds": 8657,
+      "effectiveMaxMultiplier": 50,
+      "hitPercent": 19.9834,
+      "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
+      "maxWinAmount": 100000,
+      "maxWinMultiplier": 100,
+      "maxWinRounds": 2571,
+      "observedRtpPercent": 96.99048999999121,
+      "paidRounds": 1000000,
+      "payoutBuckets": {
+        "0": 800166,
+        "1-<5x": 102928,
+        "15-<50x": 4538,
+        "5-<15x": 78744,
+        "50-<100x": 2571,
+        ">0-<1x": 11053
+      },
+      "respinRounds": 52179,
+      "rtp95Percent": [
+        96.31509143275659,
+        97.66588856722585
+      ],
+      "seed": 970050,
+      "stakeShift": {
+        "fromTenths": 50,
+        "toTenths": 500,
+        "numerator": 5000000000,
+        "denominator": 450000000000
+      },
+      "theoreticalHitPercent": 20,
+      "theoreticalRtpPercent": 97.00000000000001,
+      "zeroWinPercent": 80.0166
+    },
+    {
+      "betETB": 4000,
+      "bonusRounds": 8631,
+      "effectiveMaxMultiplier": 25,
+      "hitPercent": 19.972,
+      "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
+      "maxWinAmount": 100000,
+      "maxWinMultiplier": 100,
+      "maxWinRounds": 6942,
+      "observedRtpPercent": 96.85585999999128,
+      "paidRounds": 1000000,
+      "payoutBuckets": {
+        "0": 800280,
+        "1-<5x": 102881,
+        "15-<50x": 10518,
+        "5-<15x": 75255,
+        ">0-<1x": 11066
+      },
+      "respinRounds": 52096,
+      "rtp95Percent": [
+        96.27310898909295,
+        97.4386110108896
+      ],
+      "seed": 970050,
+      "stakeShift": {
+        "fromTenths": 50,
+        "toTenths": 500,
+        "numerator": 32000000000,
+        "denominator": 400000000000
+      },
+      "theoreticalHitPercent": 20,
+      "theoreticalRtpPercent": 97.00000000000001,
+      "zeroWinPercent": 80.028
+    }
+  ]
+}

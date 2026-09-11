@@ -21,51 +21,88 @@ The operator launch confirms issuer `kassino` and audience
 `kassino_le_catcher_etb_prod`. Backend migration 033 registers that exact
 binding. The frontend and production backend are deployed separately.
 
-## Production math v5
+## Production math v6
 
-The backend uses `abyssinia-97-hit20-cap200-v5`: **97% theoretical RTP,
-20% positive-payout paid rounds, 80% zero payouts, a 200× complete-round cap,
-and ETB 4–4,000 bets**. Positive payouts include returns below the stake.
-Respins and free spins belong to their originating paid round.
+`abyssinia-97-hit20-cap100-cash100k-v6` retains the captured symbol paytable,
+ten paylines, and evaluated bonus transformations. It uses custom outcome
+weights, not the original provider's reel probabilities. Every complete paid
+round, including respins, either king choice, and treasury, pays at most the
+lower of **100× stake or 100,000 ETB**. The bet range remains **4–4,000 ETB**.
 
-The original symbol paytable and ten paylines are retained. Probabilities use
-a custom weighted outcome catalog, not the original provider's reel strips.
-Both king choices complete the same total award using different bonus sequences.
+The target is exactly **97% theoretical RTP**, **20% positive-payout rounds**,
+and **80% zero payouts**. Positive payouts include returns below the stake.
+Weights depend only on the stake; no player identity, balance, history, or
+recent GGR is used. Already accepted v5 wagers retain their stored awards.
 
-| Award | Probability per paid round |
-| --- | ---: |
-| 2× | 6.5% |
-| 5× | 5% |
-| 10× | 2.5% |
-| 15× | 0.2% |
-| 20× | 0.15% |
-| 30× | 0.1% |
-| 50× | 0.1% |
-| 100× | 0.03% |
-| 200× | 0.02% |
+### Base weights
 
-The 2×, 5× and 10× tiers account for 70% of positive rounds. The remaining
-smaller tiers are 0.5×, 0.7×, 1×, 1.5×, 2.5×, 3× and 7.5×.
-One million equally likely tickets pay exactly 9,700,000 payout tenths and
-contain 200,000 positive awards. The weights do not adapt to a player's results.
+These apply before cent-rounding and cash-cap compensation. For standard bet
+options up to 1,000 ETB they are the final probabilities. Both king choices
+complete the same total award with different bonus sequences.
 
-The v5 simulation of 10 million rounds returned **97.295578% RTP** and
-**19.9983% positive payouts**; see [math-report.json](math-report.json).
-The sampled RTP 95% interval is 97.021336–97.569820%, narrowly excluding the
-exact target. The weights were not retuned or the seed replaced to hide
-sampling variation. Exact ticket enumeration confirms the configured 97%.
-The older [10m](math-report-v4.json) and [100m](math-report-100m.json) reports
-are historical **v4** results and do not validate the changed v5 distribution.
+| Award | Tickets per million | Probability |
+| --- | ---: | ---: |
+| 0× | 800,000 | 80% |
+| 0.5× | 6,000 | 0.6% |
+| 0.7× | 5,000 | 0.5% |
+| 1× | 4,000 | 0.4% |
+| 1.5× | 10,000 | 1% |
+| 2× | 65,000 | 6.5% |
+| 2.5× | 10,000 | 1% |
+| 3× | 14,000 | 1.4% |
+| 5× | 50,000 | 5% |
+| 7.5× | 5,000 | 0.5% |
+| 10× | 24,500 | 2.45% |
+| 15× | 2,000 | 0.2% |
+| 20× | 1,500 | 0.15% |
+| 30× | 1,000 | 0.1% |
+| 50× | 1,500 | 0.15% |
+| 100× | 500 | 0.05% |
 
-A separate [one-million-round audit](rules-audit.json) observed every symbol
-and found no violations in its implemented rule checks. The six random bonuses
-were independently tested at both levels; free-spin counters, Bless progression,
-king collection and the round cap were checked. [Read the audit's scope and
-remaining differences](RULES-AUDIT.md).
+The former 200× tickets now pay 100×. Moving 500 tickets from 10× to 50×
+restores the lost return: 50× frequency rises from 0.10% to **0.15%**, while
+15× stays at **0.20%**. Base tickets still total 1,000,000 with 9,700,000
+payout tenths and 200,000 positive awards.
 
-Math, JWT validation, balances and durable wallet settlement remain in the
-separate Go backend. This repository contains only the compiled frontend,
-routing and reports. Pushing it does not activate the production game.
+### Cash-cap compensation
+
+For each cent stake, calculate the expectation after applying both caps and
+rounding the complete award to cents. Any deficit against 97% is restored by
+a fixed rational chance to promote a 5× award into the nominal 50× tier.
+Small cent-rounding excesses use the reverse shift. Both tiers are positive,
+so the 20% hit rate is unchanged. At 2,000 ETB the nominal 50× frequency is
+0.205556%; at 4,000 ETB it is 0.55%. At 4,000 ETB that tier pays 100,000 ETB
+(25×), because the cash ceiling takes precedence.
+
+Counters use the remaining round allowance, and bonus play ends when the cap
+is reached. The saved round ceiling, wallet credit, history, and displayed
+counters agree. A retry cannot create another credit or change the award.
+
+## Validation
+
+`TestExactCappedRTPForEveryStake` exhausts all 399,601 cent stakes from 4 through
+4,000 ETB with integer identities, proving the capped expectation is exactly
+97% and the positive hit probability remains 20%. Fake-wallet tests cover cap
+boundaries, both king branches, a partial last award, retries, history, and
+preservation of previously accepted v5 awards. PostgreSQL recovery runs in CI
+against a disposable database. No real-money wager is used for verification.
+
+One million complete plans per stake (seed 970050), independently checking
+both king branches against evaluated lines and bonuses:
+
+| Stake ETB | Observed RTP | Positive hits | 95% RTP interval |
+| --- | ---: | ---: | --- |
+| 4 | 97.3314% | 20.0843% | 96.5983–98.0646% |
+| 1000 | 97.3314% | 20.0843% | 96.5983–98.0646% |
+| 2000 | 96.9905% | 19.9834% | 96.3151–97.6659% |
+| 4000 | 96.8559% | 19.9720% | 96.2731–97.4386% |
+
+Reports are collected in [math-report-v6.json](math-report-v6.json). The same seed intentionally gives identical
+results at 4 and 1,000 ETB because neither stake needs compensation. Simulation
+results fluctuate; exact expectation comes from the enumeration proof.
+[rules-audit-v6.json](rules-audit-v6.json) separately checks one million nominal plans for symbol
+and feature eligibility. The v5 audit and simulation files remain historical.
+These are internal engineering checks, not certification of original math.
 
 ## Asset provenance
 
