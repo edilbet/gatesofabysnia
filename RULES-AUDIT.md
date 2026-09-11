@@ -73,7 +73,7 @@ check, not a live wallet transaction or exhaustive browser coverage.
 - The requested 200× complete-round cap replaces the original larger maximum;
   a treasury award pays only the remaining amount under that cap.
 - Browser verification and an authenticated production launch are separate from
-  these mathematical checks. Production issuer binding remains unresolved.
+  these mathematical checks. The operator launch subsequently confirmed the production issuer and audience.
 
 ## Reproduce in the Go backend
 

@@ -12,15 +12,14 @@ and Go launcher rewrites. There are no Vercel functions in this repository.
 
 The client is configured for:
 
-- Frontend: `https://gates-of-abyssinia.vercel.app`
+- Frontend: `https://le-catcher.coregames.io`
 - Gameplay and session API: `https://api.orginals.io`
 - Artwork and audio: the immutable Cloudflare asset URLs in `vercel.json`
 - Launch: `/` or `/launch`, forwarding operator credentials to the Go launcher
 
-The production Go adapter and instance registration must be deployed before
-activating the frontend. Le Catcher's audience is confirmed; its JWT issuer
-still needs verification from a fresh operator launch. Publishing this
-repository does not register the instance or deploy the backend.
+The operator launch confirms issuer `kassino` and audience
+`kassino_le_catcher_etb_prod`. Backend migration 033 registers that exact
+binding. The frontend and production backend are deployed separately.
 
 ## Production math v5
 
