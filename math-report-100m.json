@@ -1,0 +1,27 @@
+{
+  "bonusRounds": 449813,
+  "hitPercent": 19.997363,
+  "mathVersion": "abyssinia-97-hit20-cap200-v4",
+  "maxWinMultiplier": 200,
+  "maxWinRounds": 49974,
+  "observedRtpPercent": 97.03297800529528,
+  "paidRounds": 100000000,
+  "payoutBuckets": {
+    "0": 80002637,
+    "1-<5x": 9196767,
+    "100-200x": 99966,
+    "15-<50x": 951041,
+    "5-<15x": 3000383,
+    "50-<100x": 450592,
+    ">0-<1x": 6298614
+  },
+  "respinRounds": 3691599,
+  "rtp95Percent": [
+    96.90680629568159,
+    97.15914971490896
+  ],
+  "seed": 970021,
+  "theoreticalHitPercent": 20.000000000000007,
+  "theoreticalRtpPercent": 97,
+  "zeroWinPercent": 80.002637
+}
