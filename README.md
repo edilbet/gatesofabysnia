@@ -12,49 +12,60 @@ and Go launcher rewrites. There are no Vercel functions in this repository.
 
 The client is configured for:
 
-- Frontend: `https://gates-of-abyssinia.vercel.app`
+- Frontend: `https://le-catcher.coregames.io`
 - Gameplay and session API: `https://api.orginals.io`
 - Artwork and audio: the immutable Cloudflare asset URLs in `vercel.json`
 - Launch: `/` or `/launch`, forwarding operator credentials to the Go launcher
 
-The production Go adapter and instance registration must be deployed before
-activating the frontend. Le Catcher's audience is confirmed; its JWT issuer
-still needs verification from a fresh operator launch. Publishing this
-repository does not register the instance or deploy the backend.
+The operator launch confirms issuer `kassino` and audience
+`kassino_le_catcher_etb_prod`. Backend migration 033 registers that exact
+binding. The frontend and production backend are deployed separately.
 
-## Production math
+## Production math v5
 
-The backend math version is `abyssinia-97-hit20-cap200-v4`:
+The backend uses `abyssinia-97-hit20-cap200-v5`: **97% theoretical RTP,
+20% positive-payout paid rounds, 80% zero payouts, a 200× complete-round cap,
+and ETB 4–4,000 bets**. Positive payouts include returns below the stake.
+Respins and free spins belong to their originating paid round.
 
-| Setting | Value |
-| --- | --- |
-| Theoretical RTP | 97% |
-| Positive-payout paid rounds | 20% |
-| Zero-payout paid rounds | 80% |
-| Maximum complete-round payout | 200× the bet |
-| Bet range | ETB 4–4,000 |
+The original symbol paytable and ten paylines are retained. Probabilities use
+a custom weighted outcome catalog, not the original provider's reel strips.
+Both king choices complete the same total award using different bonus sequences.
 
-The 97% target is exact: one million equally likely math tickets award a total
-of 9,700,000 payout tenths, equivalent to 970,000 times the stake.
-Thus expected return is `970,000 / 1,000,000 = 97%`. Exactly 200,000 tickets
-pay more than zero; 800,000 pay zero. These weights are fixed and do not adapt
-to a player's results. A finite random simulation or play session can return
-above or below 97%.
+| Award | Probability per paid round |
+| --- | ---: |
+| 2× | 6.5% |
+| 5× | 5% |
+| 10× | 2.5% |
+| 15× | 0.2% |
+| 20× | 0.15% |
+| 30× | 0.1% |
+| 50× | 0.1% |
+| 100× | 0.03% |
+| 200× | 0.02% |
 
-The 10-million-round simulation returned 96.674717% RTP,
-19.99183% positive payouts, and 80.00817% zero payouts. Its RTP 95%
-interval was 96.277893–97.071541%; exact ticket enumeration confirms 97% RTP.
-A positive payout includes a return below the stake; free spins and respins
-are included in their originating paid round. See [math-report.json](math-report.json).
+The 2×, 5× and 10× tiers account for 70% of positive rounds. The remaining
+smaller tiers are 0.5×, 0.7×, 1×, 1.5×, 2.5×, 3× and 7.5×.
+One million equally likely tickets pay exactly 9,700,000 payout tenths and
+contain 200,000 positive awards. The weights do not adapt to a player's results.
 
-An independent 100-million-round run (seed 970021) returned
-**97.032978% RTP**, **19.997363% positive payouts**, and **80.002637% zero payouts**.
-Its RTP 95% interval was 96.906806–97.159150%. Both runs used the same fixed
-weights. See [the 100-million-round report](math-report-100m.json).
+The v5 simulation of 10 million rounds returned **97.295578% RTP** and
+**19.9983% positive payouts**; see [math-report.json](math-report.json).
+The sampled RTP 95% interval is 97.021336–97.569820%, narrowly excluding the
+exact target. The weights were not retuned or the seed replaced to hide
+sampling variation. Exact ticket enumeration confirms the configured 97%.
+The older [10m](math-report-v4.json) and [100m](math-report-100m.json) reports
+are historical **v4** results and do not validate the changed v5 distribution.
 
-This repository contains the compiled client and routing only. Math, JWT
-validation, live balance, and durable wallet settlement remain in the separate
-Go backend. No operator token or editable artwork archive is included.
+A separate [one-million-round audit](rules-audit.json) observed every symbol
+and found no violations in its implemented rule checks. The six random bonuses
+were independently tested at both levels; free-spin counters, Bless progression,
+king collection and the round cap were checked. [Read the audit's scope and
+remaining differences](RULES-AUDIT.md).
+
+Math, JWT validation, balances and durable wallet settlement remain in the
+separate Go backend. This repository contains only the compiled frontend,
+routing and reports. Pushing it does not activate the production game.
 
 ## Asset provenance
 

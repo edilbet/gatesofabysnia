@@ -2,9 +2,9 @@
   "game": "gates-of-abyssinia",
   "mode": "production",
   "backend": "https://api.orginals.io",
-  "origin": "https://gates-of-abyssinia.vercel.app",
+  "origin": "https://le-catcher.coregames.io",
   "artRelease": "20260909-v7-stone",
-  "mathVersion": "abyssinia-97-hit20-cap200-v4",
+  "mathVersion": "abyssinia-97-hit20-cap200-v5",
   "targetRtp": 97,
   "targetHitRate": 20,
   "targetZeroWinRate": 80,
@@ -14,7 +14,8 @@
   "maxBet": 4000,
   "productionInstance": "kassino_le_catcher_etb_prod",
   "catalogSlug": "le-catcher",
-  "sourceRevision": "fce09dd",
-  "backendRevision": "c1c289e",
-  "deploymentStatus": "Awaiting backend instance registration; this artifact is not a live-release confirmation"
+  "sourceRevision": "7026cf3",
+  "backendRevision": "97b9a48",
+  "deploymentStatus": "Production release in progress",
+  "operatorIssuer": "kassino"
 }
