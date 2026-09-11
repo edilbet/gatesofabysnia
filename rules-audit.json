@@ -1,0 +1,143 @@
+{
+  "checkedRuleViolations": {},
+  "features": {
+    "bless_multiplier_10": 211,
+    "bless_multiplier_15": 79,
+    "bless_multiplier_2": 7464,
+    "bless_multiplier_20": 56,
+    "bless_multiplier_25": 25,
+    "bless_multiplier_3": 1846,
+    "bless_multiplier_35": 14,
+    "bless_multiplier_5": 847,
+    "bless_multiplier_50": 5,
+    "bless_multiplier_7": 243,
+    "bless_nephthys": 5316,
+    "bless_ra": 5474,
+    "bonus_level_1": 45974,
+    "bonus_level_2": 16113,
+    "free_rounds": 8327,
+    "low-to-high": 4393,
+    "sun-wilds": 21147,
+    "sym-to-wild": 15869,
+    "treasury": 7,
+    "wild-cell": 17434,
+    "wild-reel": 31,
+    "x-bonus": 3213
+  },
+  "mathVersion": "abyssinia-97-hit20-cap200-v5",
+  "paidRoundPayoutTenths": {
+    "0": 799980,
+    "10": 3977,
+    "100": 25104,
+    "1000": 277,
+    "15": 10085,
+    "150": 2010,
+    "20": 65138,
+    "200": 1482,
+    "2000": 214,
+    "25": 9912,
+    "30": 13861,
+    "300": 984,
+    "5": 6045,
+    "50": 50115,
+    "500": 983,
+    "7": 4929,
+    "75": 4904
+  },
+  "paidRounds": 1000000,
+  "scope": "Symbol reachability, evaluated payouts, cash triggers, free-spin counters, random-bonus presence, Bless offers and treasury collection. Separate unit tests independently verify the six transformations at both levels. This is not certification or proof of original provider probabilities.",
+  "seed": 97120510,
+  "symbols": [
+    {
+      "id": 0,
+      "name": "Ge'ez 1",
+      "firstStopCells": 1827491,
+      "roundPresence": 868506,
+      "winningCells": 173186
+    },
+    {
+      "id": 1,
+      "name": "Ge'ez 2",
+      "firstStopCells": 1828424,
+      "roundPresence": 868479,
+      "winningCells": 172945
+    },
+    {
+      "id": 2,
+      "name": "Ge'ez 3",
+      "firstStopCells": 1607238,
+      "roundPresence": 786927,
+      "winningCells": 74330
+    },
+    {
+      "id": 3,
+      "name": "Ge'ez 4",
+      "firstStopCells": 1610112,
+      "roundPresence": 786523,
+      "winningCells": 74234
+    },
+    {
+      "id": 4,
+      "name": "Yohannes IV",
+      "firstStopCells": 1663209,
+      "roundPresence": 833713,
+      "winningCells": 149744
+    },
+    {
+      "id": 5,
+      "name": "Tewodros II",
+      "firstStopCells": 1661705,
+      "roundPresence": 833564,
+      "winningCells": 150258
+    },
+    {
+      "id": 6,
+      "name": "Haile Selassie",
+      "firstStopCells": 1791258,
+      "roundPresence": 854377,
+      "winningCells": 97018
+    },
+    {
+      "id": 7,
+      "name": "Menelik II",
+      "firstStopCells": 1790963,
+      "roundPresence": 854706,
+      "winningCells": 98161
+    },
+    {
+      "id": 8,
+      "name": "Empty wild",
+      "firstStopCells": 1128397,
+      "roundPresence": 762331,
+      "winningCells": 146521
+    },
+    {
+      "id": 9,
+      "name": "Red respin wild",
+      "firstStopCells": 48410,
+      "roundPresence": 32297,
+      "winningCells": 48410
+    },
+    {
+      "id": 10,
+      "name": "Purple free-spin wild",
+      "firstStopCells": 42793,
+      "roundPresence": 24364,
+      "winningCells": 49115
+    },
+    {
+      "id": 11,
+      "name": "Bless wild",
+      "firstStopCells": 0,
+      "roundPresence": 8327,
+      "winningCells": 32370
+    },
+    {
+      "id": 12,
+      "name": "Treasury chest",
+      "firstStopCells": 0,
+      "roundPresence": 7,
+      "winningCells": 0
+    }
+  ]
+}
