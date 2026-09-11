@@ -4,18 +4,18 @@
   "backend": "https://api.orginals.io",
   "origin": "https://le-catcher.coregames.io",
   "artRelease": "20260909-v7-stone",
-  "mathVersion": "abyssinia-97-hit20-cap200-v5",
+  "mathVersion": "abyssinia-97-hit20-cap100-cash100k-v6",
   "targetRtp": 97,
   "targetHitRate": 20,
   "targetZeroWinRate": 80,
-  "maxWinMultiplier": 200,
+  "maxWinMultiplier": 100,
   "currency": "ETB",
   "minBet": 4,
   "maxBet": 4000,
   "productionInstance": "kassino_le_catcher_etb_prod",
   "catalogSlug": "le-catcher",
-  "sourceRevision": "7dd01b497b0d01a7e0c23d2e7103bd6c180f8ff5",
-  "backendRevision": "255b64e954622fcdac0ed707b24b1272173e4f43",
+  "sourceRevision": "ba65a167bea9379eff62b404b2ff67c30584d967",
+  "backendRevision": "525a0e4395a9044aaad2cdb4e7a52475d6e3d5c9",
   "deploymentStatus": "Production",
   "operatorIssuer": "kassino",
   "balancePolicy": "jwt-initial-coregames-confirmed-responses",
@@ -24,5 +24,6 @@
     "inlinedAtlases": 35,
     "atlasPages": 41,
     "removedUnusedLogos": 2
-  }
+  },
+  "maxWinAmount": 100000
 }
