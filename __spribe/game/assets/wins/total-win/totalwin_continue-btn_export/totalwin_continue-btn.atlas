@@ -1,0 +1,27 @@
+
+totalwin_continue-btn.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CONTINUE
+  rotate: false
+  xy: 2, 622
+  size: 840, 220
+  orig: 840, 231
+  offset: 0, 11
+  index: -1
+button
+  rotate: false
+  xy: 2, 280
+  size: 383, 118
+  orig: 383, 118
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 2, 400
+  size: 840, 220
+  orig: 840, 231
+  offset: 0, 11
+  index: -1

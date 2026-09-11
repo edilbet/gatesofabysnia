@@ -1,0 +1,27 @@
+
+start_FS_button.png
+size: 877,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom
+  rotate: false
+  xy: 2, 426
+  size: 469, 103
+  orig: 469, 103
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 2, 704
+  size: 873, 171
+  orig: 873, 172
+  offset: 0, 1
+  index: -1
+start
+  rotate: false
+  xy: 2, 531
+  size: 872, 171
+  orig: 872, 171
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+original-fx.png
+size:444,360
+filter:Linear,Linear
+light_hover
+bounds:305,150,107,208
+offsets:0,0,213,208
+rotate:180
+
+king.png
+size:262,262
+filter:Linear,Linear
+pma:false
+portrait
+bounds:0,0,262,262

@@ -1,0 +1,3151 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "redirects": [
+    {
+      "source": "/favicon.ico",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6f1c0def2b2e5cf4c0cdbaa0566f31d4ae32204b1a5c4ef22b987b4b205128d0.ico",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/click.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/62a5b78e4e8b13a4654772c37145cef8b3117371dadf397b022c6d5659da733a.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/click.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/faa0ba00cd17ab56e749e7b073db86fbb32b340d386c92b113f1efdc6f2b6e5e.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/hover.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/78b42587c381ff1952be6b76c19bdc033085d5084b5935b8c5e46f88968d93fd.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/hover.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a113603c3c6bfcf65db6a97f8927320f7105c870985455c2d7ff6b135c881e23.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/skip.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a9c0d4f16eb89a50df78e2efbf3f6fee265bc10fa955bf7117634bbbf1ac7e5a.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/skip.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a4d1a767a40c259567ca0fccae16e1527ca9ec8747096cc82f1d96f2b293bd65.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/spin.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cb7a22afe2ea481f7b6af274efcc5127fec06c5274ae74fa891b94ba9d3a887b.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/spin.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7719436dbc3938b3d9c8541693be9b01d9faef71362629a3a8fb8290e6da8657.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/turbo.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/11588bf2804f1fed98aa952c89b465474894847491cedaf53abffaec162974b6.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/resources/sounds/turbo.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/afd280026d39c1038dcd09d8ef964e3aed6df36068ec0c13f9480359c339a9a5.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/ge-logo@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b5a1b09beb39af3f8846d8edde67c1ae30417b74984d1dfe25a20f91bb930786.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-arrow-icon@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ddfb4be829d7e3809cd14b019b8766023d865de0af52279bdd3b221628facbfd.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-choose-a-god@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4ad372afb10ea098d9d7282c44192a59ecfaf6ab4f64ef8e57da20bed56ed9b1.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-empty-wild@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/68bbb4f4fdd57273dcfb3c71fabcef80398adb39d59d465c71e53341d83a2dfd.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-multiplier@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4422745a1a3973284be0e41339652de30278f50b3d33f50490cd5050dc9ee8ef.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b15c3b92da8b6fcf014066f7babb926e660c5d2a9dbce5f5731dcba6bc4dc82d.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-wild-to-bar@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be25d669458aaf07c019e6898a4f62bac4543d491b44935aac0ef74d4b14abeb.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-wild@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a49d92c2381e74ad1ba844e23c428047ca59faaef5e5486e14e29cff8c75c808.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-cells-filled@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3b8b8621492558d7f6463a9d881f3eb52828b568b0b08c0ca646b1f8bf94564b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-key-spot-activation@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e2dbade1ba4b962b8aeb04e770223edec26723c455e256714dddb8ada790e793.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-bonus-award@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4e6d236f62195df5dbea998cf68ef87b9633b0be01b56a4e7cd799128838e60a.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-bonus@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e540b60817e6f14ff23e7836449acae650bae3ad0a5d9f9f69c0aefb39a4d20b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-key@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/961df14baefc9b9c6635177113ac06dad4e0a8878da9c8c4d9e605e932ea17b4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-symbol-lands@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c04267c959d36d0f8f56b83ba6b53da1b07ac754600cc76a88ac1bd7774fbd2a.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-task@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/802f71917dcf4acd9c4f199f92b272a7ada95e9cde19dd71c21793e4e3118031.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s4@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s5@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s6@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s0@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s1@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s2@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s3@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-symbol-small@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-wild-bonus@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f9021e3b8a45f6e7fa56d2129f2bcf1f28c6dc6f77c2fe76510354884c36f973.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-wild@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ddc0cb1f2e361a8d059578e2250a072443d10dc792e54fbfb95d66ab1e9d7cc3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-bonuses-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8af29309d78239a3aaa0b578d7b6632cbd0a26dd837048ae138fb1e10a4d432d.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-bonuses-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/deca10048d3ea5243ead18cc8dcb1f0fb0478973d98344a5f191e330d59e57c6.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-low-to-high-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/923428459b7f16e9de98aa10bb9bae56c0cd62a49a201c3175106672c20d607f.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-low-to-high-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0d0708f66330cacdadb24b0d2484b1aa22b887aa9986e797239f01c1ff1976c3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-sun-wilds-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3a9b4e217408e26822be580eb8d6a607b6b2421dc595459e40ee1ab1ec627842.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-sun-wilds-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/baa6139bddbcfe6895e772260606508c6d7a93b8a98ff8a1566cb3c5a6715dfa.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-small@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-to-wild-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/26859507aa295fadde1e766f24afd62e8a7253d065218532289663a63737bc48.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-to-wild-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6555cd9036108d5b90f87aa336ed42317be52cd66ec34fa8b9836cc061351fc3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-bonus@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f54d5b37a3368577923e8982b48266d730a18b4afa9e0410eaf2ddba1098e1dc.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-spot-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/10fffdba7fefb8d36bd622f469cbe26edf0c62efdc02af0b0a510abad88fae73.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-spot-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/aa4f13c62922789969e133cc8fdfef0becb16235e871340428d0e64f24ece38f.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-stack-reel-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bb667bc853443162f243e4a9ac4c29f9bfda2141d0e8ce733c6f060b93b4de46.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-stack-reel-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5d3fe1623c2d98d36291df4a26d8afcf1b2849d02c891e1eb83af68d10755f2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/db2e9ba0aed837b7d693383d8f0fc5657468c3416a69cf14c4a98b699518c94b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-x-multipliers-1lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/98bca805b42867dd89a68d844090817a75f7a0375b4d4800b9b8ea9c0b6c256e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-x-multipliers-2lvl@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a7c5fb94c571365dc383b05aadff36e572ef778b2b6c89809322746c1db8fb54.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-wild-s4095@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d913e48e51cdf11f457b709bdb04c8d4a8bb9bc6dfa7abdd66a8ba838c5a272a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/simple_win_background.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/74b853f202380c7470670134a153b7f176642bf01bd5b992eadb155b3289fdee.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/simple_win_background.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/73962974625db33b010acdd334a2bfbf1892ba7a7d127bc1e0fe4d929c1e6bbf.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/total-win/totalwin_continue-btn_export/totalwin_continue-btn.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e24e92ad1e8fdd21df072bc504f1bb617fb2feff7e00d6a491a00383d81cffed.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/total-win/totalwin_continue-btn_export/totalwin_continue-btn.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4a552730a1cff8610242d2dd69b77a30a0387c5abad7d6e0be4a291e3fce1e44.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/422cb0786ef3bf2f99e20dd05d6c57b0f92172fd25dcd55e4047915750c14370.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/70be4a8d0c760e582f0f6432ca8ee1b925c3851a21b0107afbf569e64e532593.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/colossal_win.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d311880aeb48a99352b8f2f97b2dc135176c9af2cfc5f08d4af0432de75f95a1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/colossal_win.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e6fb6af3fe0ee2ac3312fdaa422f9ca5a81c3820873ec5ae98958980c5399bfa.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/epic_win.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0d04b79f3adc34d98e1ce04464094ac805ed3551c4dd3500c4700f191187d02a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/epic_win.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1b371c76a0678156c3fb56e441674cc52c1549acdf3240a860818775fedb6e79.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010000.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5053202685232e19263ca54753b599829b6de8e5c1be68d9c407d2cc6929157f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010000.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8e259252b11fe8c1e10e59ac400435c5f1d5f2f0047545bf819b830421f35253.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010002.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/41fc8cdacc459c309e6be700e24eb7db5d4987b5c7245b4ec1997eb2f5df7536.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010002.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/364c5b282c86552acae8e0a4a97e9d92bb653a756dd9adc70525d64757b9c624.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010004.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b6a648f070215582d79fb4bdfdd2cc05b3cddaad8dc511821513f1e6e2debf87.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010004.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/79b11c68c808e54ac9a729f3d955ef54d7278f65866d1db93a399b740425d35f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010006.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fd032fea570f8f25c49c28d48859d3787db144eedbfc690b1c1c93329ff8c0d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010006.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4e79c2182c40b4decbf5fdc02c4e6427daf855d89b6b3e0cdc80e02064fa0a43.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010008.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff5d3e8c6dab655ea830248f49c4de5ba78715b1b327eb8d4702b83453a3f26a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010008.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6e1f77f40c8114a4a162f17498934cdd5fe1a49c74f62f56990f51a367cd543f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010010.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/dce830234d52e6023a19585f0ea39f90bc63f752b4760f49da6a1fc71e050707.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010010.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0f60e6ec9325c8a55b4b8778d2f307fc4a26a4ac9e2aaa8ad370993cec5f8da5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010012.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6446c90626389d8082f988842e1d86c454881970e0abeffa4bfcad4a2e4f5f14.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010012.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d62fc5f055c603ee21c67c9f33f07cc477cd9ee63c9e6adc652f6c045ef4ddc8.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010014.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8beea3c6c4cffc7ed7ab5ebd62b50f8547c860b0da81f1fb4ffd7b5045450ee5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010014.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7b30b6f4009eb9c437e59c2fe199fb5140932948b4fb4e20f9c9994c1810b6d3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010016.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d1b809d5f3aaa16ffabb3700bfb6cb8eca3503f22f063f80e3bba48c61a22f98.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010016.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9e575c714793bc7c3428319f52ff1349361a12df7194da37dd50e82726808952.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010018.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3713cb0678d68f72676ac8c1c14abc876b8413f2bdf707f19d8d77464b8343f2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010018.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/759da82b4a85a63da580be87b0075360f6d314d14f256768e6a5985bd68bba82.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010020.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b5e752b11fabe657b00a5d4d4b64146dd8f1782ad63cfb5676aea23af5fa1da1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010020.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bff67885d1c9abbc3ccbf7856405742167f2d849f4cb68afb29ce616e74cad7c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010022.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c539a4798cfe42046e57d456d0e77ccaa69208f1f7886dd54b6edd53820cfaeb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010022.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f429899b70a9d4e9a2352805fb5bc3e3a6fe3f7d8850c9b18403428fa9a1fa6d.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010024.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5026928f4b48fb1ab2128700569e204676b69dcc07b23f439018e45261ae7604.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010024.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9d9e23c92947cb26f3cd2e4197e543a9ed65522eeb33df49af4344525f682fb7.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010026.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d3c31006563e33626443ac5e7fa9760e7c183aceeb37959c309db79b5ecf2751.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010026.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5896d24a3aeed74a698d92ae42243a18e292a28f51766bbb4b2ae2e1ae001106.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010028.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/10d2fb52a2ad8b170ce7701da72a14ab73052162f815f9a33fcce8bdfab79db5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010028.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/587091170e5a8125230fff029620b6f151b6b8e0e6d7628c7a078f092a07ad03.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010030.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/813a0073239827a86105077431d05c6d92f721eadf8fda42b279af95c23a6ae4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_vertical/mon_E010030.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/19bf852a6838d5b85f00865194d697b80a4156ef6de5b2bd61239aed99c04f29.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020000.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5eae88d2286fdbb125f2ab7da8e0a7fc02e3e05caf7c472f6e186e04b5237ad4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020000.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0d309273fd6056937064d5f2a173e7fc4e25b7f684ed3bcc5b5e792692876242.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020002.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0ae79a7ab13beb764776c68b862b58e985361138430dcbd2a26881fac71fc943.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020002.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be4e50ed1d16b48c2a2e457532c9f5ac8a8d42b47f070224900170f9233155c9.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020004.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3cee883b8fb7d4376a010255735a0a51d4d3b4b5ae1e3be3aaa6deacc9de3b30.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020004.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8982bbffb81aa18e49ec1fd0baff9e37a8df7c1a326c48365a34ffd4113f0502.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020006.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/57ac69c69440c7167efdc1ca28281ad2b9e9ce0e0a92149522eb35e9245eea3d.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020006.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3609628ca119ff153ac671c732b457ea9dd0f81cc4435d127595c42c0e9fab58.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020008.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8127df28a9f93ef04f915b4af52877b43927971039687bed0828cb7c510a3c5a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020008.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3510cf499f58fec262d457bdd375b1c4986067e3f19a337626ac84cc6c00a69b.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020010.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fa7d5d39e3dbc244117dfebc732740c8974d4992e20ee884c516355ce7454618.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020010.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af2615130e539a124feb73953512c53d3bc76f76399c097f30b3f0918c08b4d7.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020012.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fd365884879c26f7cb4b3d756be9136aab3fe21dd33afc7d54e4c8f02d5f82ad.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020012.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9a0d63190c669ab8bd554c9902bde77598e4de8d946708faea3184d1b80743ec.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020014.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/baa35d4c85e630bcf298afcf966b7346ef5fc763eda895e2755e13189ceb85e4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020014.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/842d0bbdbdc1e0bfae559e6f0825ef435836c2039b65ff40de318f31218074de.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020016.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a0d5356a693807fe83b6e471b9cdeacb3a85cd5e8c1a7386bb6e9de6f050e3e6.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020016.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/596db7d55425d83b92d33ae734f3064942ef8ad8b4f289bfc23475e76f649fcc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020018.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7da15382331a0087172fd93f5fec72c3f68888e990a0cea7b4a125d1b06ba89b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020018.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/59e8368d2af8ca1af6de3cfd91a4c91f8cea461693fca6a56f82f28473752b14.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020020.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7ae244e356671c63ed527dcf2f08cc1de7fcd77b6f538cafd1bd7db2d622431e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020020.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3375eaaf7e380ce840133794cdc7692581bbeaf13e58b35056e40da681f2a5dd.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020022.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/dba846f6a383c0d5d08517a79fd137c08e3a397c36f816ca7e2a6f6948c438d3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020022.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/884c7b32999c0a7fa4f1af4bf601eb251fa7f2fdcc094b906aa921c4bb38f5ed.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020024.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4078dc4ef9e8360bfbfb2fd7a87393b463a0954b103ed02284a6f85cf65d9ab8.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020024.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/77aab5514e41ca47756b99e54dbb3802e71d787722c97b56848966535c141645.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020026.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/776bc242c61e0ef933353aefbdd97fddc242ae24c7f927f284a1efaa9cf315a0.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020026.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/52e27cf84dd686ac6e6bca3c895c4ffe601d403e835586c82dd0bc005af0fba0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020028.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9c5cc8ce43512d0ef98c2e2fd058cf4ee72be0a1f9b2d0de663fd0dd9d944fc3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020028.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/990c620fdbb9b2d0b9f989b095d2b17c52b3a48a1d8950e9d24923699e0e7018.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020030.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bb88886f7246135eb9b7fa4b3eebd4cee5d727d2e0a4c5090b96d1000275125a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/coin_horizontal/mon_E020030.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/60d7338af43beb98a0a37101c847433caf4dea02da0a8cb53aa6f1ee538a60df.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win_particles_export/big_win_particles.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ee0778f8e5daf1549b85c78cd3e6b5bd8ed073599a5292e688ff53afb586fbc5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win_particles_export/big_win_particles.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3d5016f0096f47f4a5de0986efee137d3069942a3e0fabc7a457a5d0ce020be1.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win_export/big_win_cup.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5e58d1fdd6ed412533c010fa4c35b09b54bda51f324e1e14acfeda03d1cede9d.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/wins/big-wins/big_win_export/big_win_cup.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ed9c0c98b7e56f84cce25942dc554b3a324b21824eed149b4b105e3e34a0423e.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key_empty.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4c735d472f8013320fcaaf4803f849018745a9a6a6e2606a7cf849227f446c1f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key_empty.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a3bc7a1ba8ecc7b9721d2352796236f94f20e5e9a783483446e8ecba0204db0c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/s7_icon2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/s7_icon2.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af9a87a46e8f266399c828369c96a1aa29b8a9e3c04aff9e424f937077f2a6fc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/s8_icon2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/s8_icon2.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0b5a5431571fcbaab541e4835e24680a5646f040f882c471a2a22ab2fe7c590c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasure_counter_bg.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/314a6409ba95d18d84dbb3bfdeda46219b8f8e8d6a51ed5b05d69ec86758f629.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasure_counter_bg.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9212d82cf1ce11c54a6d30b20a4ad9c3df55a825e796f705f32910c9eec6d020.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_bonus_icon.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4fe06225cc37b706e4638e2fd6b36dcb08183710389b06ad5ad9d2b7956ff0c0.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_bonus_icon.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2f79bd43f2a72915eb0d3caf680870bd3b1a584e85e1c608faafd43719927cd0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_icon_nephthys.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a0c51e2084014bfeec9d3a59ff8bd24be84f972a96d3f76b50c3662c5f2d0c44.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_icon_nephthys.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2f8157b41c76a0d39adeac39cd8bc7addf18c163fbfa9422d56185f686d1e70c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_icon_ra.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/877fcc22687ce1350d1700e3418ec6c2f4b99e3ae0bd87edfb968eefa4b9d633.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_icon_ra.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cee4814352eb338e566fe809b477b89447971d3ab5ebc11e98f34a068b380550.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_plate.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/57a53355563366bc985d2a7f96ab42a06ca7a6ec11d7ac22dff0d504a9c25394.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury_plate.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/87a569fc40eef0d85afd80f9af52e90ccf54eba9c82f130108b7faedf2436ab8.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury-export/treasury.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2b9cda7355707c3ed2ced55d8aff1c0d9740019659ed736e02d8b62bbbcb177.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/treasury-export/treasury.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d5c4931d1d52f915e14368850809c7f80c1941e5f671a7e9263d58e9addd34f4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key_cell-export/key_cell.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c5a55732cb7f5bd6a1f82361a9d0a038679df7e058b0adeed5c50111c94bb025.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key_cell-export/key_cell.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0e0147faaf5ec262baa6285565c7fdb8f34d8d1756db1c1d569d910cf9d4879e.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key-export/key.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f81e35480749b704aaa21cb0bdfef02973477e8387246bf55e867057bd40696.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/treasury/key-export/key.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bd6cd31bd8d1d666f56a062f848bd6222abdd1ab6e70f5cbe558ebae312ac911.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/transition_popups/transition_popups.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e95c5fa2461ab2a6f7e37ace2d98c5c45aa33cd8c7e20e01a0f847e3c0f44996.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/transition_popups/transition_popups.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ced10b2cf176dff74a5f099aa9ddd1a9b1521ae23144cd8427e977febf7e1e1f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/win_cells_export/win_cells.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/afe488d0621e15c9e8b3f836977a16ef6ca6f57614d683644cc275b4b4309fc0.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/win_cells_export/win_cells.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/068c83b7bbb277261e0139999c36941f163dcdca97a2cee349ed185fb384a4b3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/wild_win_export/wild_BG.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8cccd6842a56effeba20519e0eef619595f0bbeece4d209c60e721b297db3de3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/wild_win_export/wild_BG.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0d66a570805eef0422641d4ee3ed3f3110b4debaa164fb704751a895b9645ee1.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/wild_win_export/wild_C.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/22234d367572fbb69116d72cd9420621ee8154819b1fa653e995d68203aa6416.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/wild_win_export/wild_C.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8ffe3862df192a2b223c234a7a42efb4edd436cfb997bad46e1bb0e9f85dc932.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s7/sp7.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s7/sp7.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0b5a5431571fcbaab541e4835e24680a5646f040f882c471a2a22ab2fe7c590c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s6/sp6.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s6/sp6.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af9a87a46e8f266399c828369c96a1aa29b8a9e3c04aff9e424f937077f2a6fc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s5/sp5.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s5/sp5.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/541466a3cffc79f0d0d0c960b6546bead1072b795f14a52c6176cb99d9bcbbd2.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s4/sp4.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s4/sp4.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/df13f46699cc1f64bbed70a9ac086040117a11a4f1b7492c3b5e3062239413fe.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s3/sp3.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6c2891ac260cc93eaeb8ac516eb739fc18ed1aa00531e255b7990d687704fa0f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s3/sp3.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8a60b61068a3b4c80e5cc8f258072eb3c92c252cd5e622177f8fa8d0dbb61921.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s2/sp2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/751b19c58b54162c0c7b9fdf92a1b3deab0e810b7e536332bf2bf2fb4c7b1c3c.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s2/sp2.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/053ae318ec6d90898819259df8c45debe3b33332af6525f439417c49fb455a3b.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s1/sp1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cb9f40c3335e6ce288bc495e32cc9d426bdb55f40978c3c59eb46df3b85d4639.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s1/sp1.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d3af989d2b2870fe694e8de974d092484c72345c90de4da020476958fe702785.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s0/sp0.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/eb7289b23e3fb55a5bc8622398fe1a15ae9d4eb1bfe5ee6bc4ff73011cc99a5f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s0/sp0.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c1c17c738979e67ecc80de3319ca7ff5afd6410f68b515b2ab0482bf647063ec.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/crystal_energy-export/crystal_energy.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0608caa940ee6f0abfe91cfa2255e18c1d275f611dc301b200f06b870e0a6f8a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/bless_wild_export/sp11.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4acc039f4b2c5423e4a4c6c61a05e41c5d5389b53981b4a118d794352e1caa1f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/bless_wild_export/sp11.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fee93b9bb6cf893ad92664c27b2cecf5f16724fd0738a9963b158d6e1df4af76.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/bless_energy_export/bless_energy.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/11588c3e6ac0c990964187616a3a3c12278a121458cf8774ff79c6b8dfbac918.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/bless_energy_export/bless_energy.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/32f284e44edb5fb9cdd913779858d4ca7733a73efa95b86e7cdc0a0608b1e739.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/active_flash_export/active_flash.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ab169c6af151db93cb704ae82d7ed05c57218e56c157e4e7738e274a3e7fa151.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/active_flash_export/active_flash.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8b1176c994bebda1dc5ac41ef617d57ec3eed069d6af09a47f2653911565182c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/plate_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f2466eca958f790f1da5499f7598edfba47627a969edcad2155228bfab9526f9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/plate_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5e1ddf7a51e68433be971ef7728b240ac2c64a99d3f3f4e863058c836328d2a5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/plate_main.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/63228ef222be9a6d470809d6a20bbf9c64efb5a5a8d2feb384dac7c3734d7ccb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/plate_main.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c04632d46aa0047029479a075086d0a8465096c674ab005620b1f5a7855307ba.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_120.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ebc0bd98978485e13967d42d79bb1ffdb942c550419874302143755646ea64f9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_120.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2001b5a902eba88e84ecd51f90bfeafc5ce3a5f063dacdc937c4bed4a3f5cfd4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_121.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d1bec5f050f96857544b0309a2919d31fe826cb26814980fd8a0f55ab2b0d181.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_121.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9f6636f3042dfe3f90517c29e5920aae0e2d153dbd645d30f080368558571fca.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_122.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e7d422a5eb4e1949941a8c8be9837d6c674f2872128d5ed9e4291583f65ff941.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_122.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/19ba98e325c731e99ab5234e4d79883eb6e834a8b3b799e91260b54837ab8051.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_123.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4d7613e7e105d37f9a1777c4381bbb1436f8bd28bd78f2994e644e57322e69d6.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_123.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f4effff7d9f58052d5ca890765e70e15100a0617ed07f94aa42efbc378fe3fb9.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_124.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7d70cf843b9508d333cc269e54d16fe9ea63f086669228793a260bd6834240bb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_124.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/970d075042dece12f05feb51baa9674dd4ca8b00c3096b60e6f6f2d889884c24.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_125.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/40f4a18d8cb509e12b79ecc0374278241b7de26e387ccc3abc37ce83caeaf309.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_125.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ee91ad2b56bcce8a3ecb9554296fa622cf125e9b27501e5edb10a2036913e31a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_126.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/40f4a18d8cb509e12b79ecc0374278241b7de26e387ccc3abc37ce83caeaf309.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_126.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ee91ad2b56bcce8a3ecb9554296fa622cf125e9b27501e5edb10a2036913e31a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_127.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ce39a27bc90fe3aa7625ec638411f48605ea7b233ee5e4118b9629790ddf0fd8.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_127.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c203e2951c79c8a7ed66216ff69bf0be6c6246bebc7ff6e1e4a439d9d039deb4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_128.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/07a3050d79af19a626b6382e45fb0b652ba4f15833e99c908ac0f699f856abf2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_128.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/311063648978c53bb9495e3eda4a513cd2cf7121c6a5993630c955ae71f685c7.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_129.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e922bfa263475c4a8c0308f758c98f7d7c2b9d7b99ee27e8c4d364ec2aac2c5b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_129.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a2735d4de0ead573a531c181a8950454621dcb6d5a5f22bb44afe107c52c721a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_130.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/333c5dc4b0bbe48b9ca13d082a1d9be6c0184fb3fb75f137dc005e3b2efd420f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_130.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fb68a8470ac52f1e4d0f7c7a40913da8d462865e5adcc6a26b48a2052865dac2.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_131.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a3b472b053898fdb827ca62a674559a67d7e71d854040a2604fb626d56bb24a9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_131.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/68bba87314306fd8debc67561db08a9e315b4b18e67cd5b0d78d5c832e5bce49.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_132.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8f088fa31d4049863db5293582602af970c0976c764b1457ed34b33e079beb48.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_132.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b6e4bcc06951f290613a38bf7a3594625df4f24605744ed85d8fdd3fc8a0f958.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_133.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9d89a26cf92ee39e70ccb6f89e1dc8ef59be375b63b2c96363d9653092b814cc.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_133.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d39fd3b8492eaa0eafd2a84e61c73084cb54cafa5ef6f79b8aede3177fba7660.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_134.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ebc0bd98978485e13967d42d79bb1ffdb942c550419874302143755646ea64f9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_main/plate_main_134.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2001b5a902eba88e84ecd51f90bfeafc5ce3a5f063dacdc937c4bed4a3f5cfd4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_100.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bd26c1292e71009b9821596941d70cdaa6db2d53a01663d286d351c4ec811a0b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_100.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8dfec1933262c99cc8f90595270fd6f32dae5d2841a531c3f72f68b9db802851.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_101.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7997b6b33a3eb170a0d4750c3605b677bb759053ad019869da884b124b36a1be.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_101.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3dd7662db9058803efa5716ad733f77a70960c798fa30f469f44b2e133ca7d94.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_102.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/06d9084f443a161c0054d98bc9f59a9c14abf2899455707b4c86e7fe3533fc63.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_102.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/40bc9a0ff178635552b0764d16d585b8d8b62e02c841158ae62dae76ac9db40f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_103.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/dc5497a91067bf197cc42065896c10a4aca92152d8ce37fb5a695f407a84aed5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_103.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c53c7589d6bed13d93e2b8f26f5d98c58c1f0e1b7c1e34249f9d5439e6499d5d.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_104.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/37c9bad1b5eb6fdf2a8730c8c7474345293952e04225bea58aeae6f9c9682ab0.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_104.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a50d0a3ac51604522da94744f40ec6719d3592e2dcb5bc97e76a60cde403c8f2.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_105.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ab4d29b0b8d69b079565a7b7efb600904d497eef22b7eeacc70eeb170633ac88.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_105.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/54fe32e2a88dd95529fb0822b4cd17771e3bfe6f4d6393209f22202c3dd1ae4b.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_106.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/88e0ce79cc916c776000aa4039b60a24b636eea55a9697789df0219fbd0005b3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_106.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/476279eae0c51555fa551c610c6c576accd9b1e924e7937f021d2b0dae34a741.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_107.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c4ceb86b9f66cdf6b528129425fa57f575cce4692f2dbb1539d0f102f4210417.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_107.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/16619b72bf23e46f89d135c9da2c06ff98d77c1138d152fa71b50467260e6dff.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_108.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e019319373a20e681d8a4c5d5f4ce812ff43a50384a577f00899c6be608e6a85.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_108.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fee9fccd0485abb2182e9d5bc2133ed37bd40f4847329652e5b21e2288adc750.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_109.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/246000271a10c92032066e92b3b215f3ae96f7026e2d006f71b436fa13761682.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_109.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/847506a3c7d47dab253005e6c9bf4554f83fd922b2ddc98f2fb81ad176437bbf.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_110.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d2cc9a088819a2eb86404cc8a71ec4240f77ad10ca65aaaffc0dfe0c80687ae5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_110.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d06dc3d0b5ac132a4c8950944afc76f5ea04bc0e2b923225dbd2f774cc5cadfd.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_111.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9c52dc28c15b3fdb715a9d39f56eb4609660d8382bb5ca68c397d9f45f534659.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_111.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/52f040fb0eccca2252782be4d8fe2ae7df5f354a35c571a7c1eee8d336d4dad9.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_112.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6472680e469a7797a6fc485219aa2f98156a63f79aa6d41d9b4bfb3fa075fbde.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_112.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d7f782d7ad24c2b109c0041c493af81069050c1c6e0286eb3be1baa35aa1a360.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_113.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/27d73c4a6bc846fa02764deffc8cdbdcea5b95089dd6a3788c28f6cecd04b529.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_113.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/88c3aea83a98d3990221d4e0f5718b74b66392776b193aa847523f0ae0f8352f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_114.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bd26c1292e71009b9821596941d70cdaa6db2d53a01663d286d351c4ec811a0b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/turn_plates/turn_plate_fs/plate_fs_114.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8dfec1933262c99cc8f90595270fd6f32dae5d2841a531c3f72f68b9db802851.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/blur/plate_fs_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7dd122833d9c99765747bf2996932042fe682965177e9c012b4a2e1e5109e862.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/blur/plate_fs_blur.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8c898ebe5d998b8397738d6873d3b62cd9fab50095b2363820228da3b519abf8.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/blur/plate_main_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3d65d6defaf8d275e11492cdbc91fe79e310e92abececad85e643a595e989c10.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/plates/blur/plate_main_blur.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e7737f16af7ca435cc83340390aaa5b1bb16063fb05df37c8212db12b4a3aabf.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s0.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s0.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3725d005613997914892139197ba8977065fb679da3eb07060e617ad1178cc10.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s1.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/760eece2a5f233bf734d1426d69080b47f6d43c44e2b67c2e7913a5704f78b06.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s2.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/aaf060e77bb458e88f714e0964e009d3df5a524edd4d1b255929de93216bd8e2.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s3.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s3.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9fe02fa106b1b52f718f7bfcc33f8d162cd549c9653c7e63f467409c39d7363f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s4.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s4.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/df13f46699cc1f64bbed70a9ac086040117a11a4f1b7492c3b5e3062239413fe.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s5.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s5.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/541466a3cffc79f0d0d0c960b6546bead1072b795f14a52c6176cb99d9bcbbd2.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s6.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s6.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af9a87a46e8f266399c828369c96a1aa29b8a9e3c04aff9e424f937077f2a6fc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s7.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/general/s7.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0b5a5431571fcbaab541e4835e24680a5646f040f882c471a2a22ab2fe7c590c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s10_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/425be2643e7c6dd9e1a8630418e341e0f9bb75e1138a73ebe2ccb86ca3d33c83.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s11_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/eeae44dd9e3d6030ff4408bdea336a6a958c63b9fa0862efe2b9675807e5d6ae.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s12_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fcc00d0cd823dcd330f2cb5a9b630e0273d9809f05e6e54af36b8df88e25e2e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s13_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0cadb992407ba47cd452b1f798e8b14dae46223b44450ae3abb0cb7feff95626.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s1_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s2_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s3_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s4_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s5_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s6_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s7_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s8_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/blur/s9_blur.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/68c962a3c1b9d4549757fd01997792a7be62a51f5a4a2affe27827221a0d0557.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s10.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9ef69f76e1034dfbd0368020e883b6dd1fdb3d77647beda1609505073a16caa4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s10.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3c49c3fde4482a8670c176eebb335600be0f54e0c67b731d4fc52f4486b233b5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s11.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/44138eaa65a7bf3ed2b083c2e17dbb7753e0e576b58c567a97b4aec6566a0560.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s11.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3fb4ae09f87ad92d56b481f31535c48fe1c3f18bb99857fd4974d1632a5aae56.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s12.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/05aca4ddefc57f9f1200b9fdfac9576c8c934e678046cdbf5247109b6b4e5241.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s12.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/454b7abe6235261b8823a440c8b5e043c387733b09bc4097406e3505a044eb85.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s8.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/346658e32d18056b361b825a16ed589436f8825484b4379fa9ac5de2ec45fbec.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s8.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9d0b990421d406d450168e48f4f7d7cdfe5224a149debfa3a529cd8fc844bdd5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s9.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e4ac8f2108c9e6932255a8b466e007e55ccd9dba82192326ea2b5dcb1866af46.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/additional/s9.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0506f4d370dee4c3ef5329c19b9979682e23f5f2ef4c1a8d25d61adb77b0a46c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/sun_wilds/sun_wilds_transformation_wild-export/sun_wilds_transformation_wild.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0bbfcad02646b583a92b8fec65c524bd463e85ec98e751d0f82ffb6ca33a3569.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/sun_wilds/sun_wilds_transformation_wild-export/sun_wilds_transformation_wild.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ef6fffdcd7fe65b953f203728196f0e5038acbf6756c47cb2633f6ada5067e55.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/sun_wilds/sun_wilds_sphere-export/sun_wilds_sphere.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2e3f7ec556bc2d3251a5d2dad4a722639e1b122645bc45132fcd653dd64619db.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/sun_wilds/sun_wilds_sphere-export/sun_wilds_sphere.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/45b168d759286224130f57f5fd850c8cfdbde08fc28987019af82e810c26a124.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/selections/wild-cell_selection.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/94c7ca75af939cea92a2d48468f56b894f6252b437663ab141b1912a4bd18e99.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/selections/wild-cell_selection.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/69af333af4f9115c068a363dc0f468f940a6348f9379cc6efda8d9d9ec3b6050.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/selections/wild-reel_selection.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/921e3a9255a433ba1781ad69a2b2b53924245fa2e00276ab8548cf32d3f51619.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/selections/wild-reel_selection.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/15b148069a89e19848b2f7a9d89d19adbc402271bc7074558b687c992be26216.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_low-to-high.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8b22c454dc9674b4094b1665831c236fd09d10047d7a0a422bfc8a4f03e9141d.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_low-to-high.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0307e171bbee98145fe7371c050008fb4941c71f13bc54b6c36fcab82f70b334.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_sun-wilds.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/994a887db3618014043cb16b9abc4f538db607242c349e3f5dc706904be0928f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_sun-wilds.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/31304593ddb7e94460d152e814d462410f74bb6947bdc4b90f5b0cb848e96fdc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_sym-to-wild.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f1023059a273195d2cec9119cd42711eb8928fdcd037918f2c8ae5454c2a80a1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_sym-to-wild.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4864e4f677c1f22c95a3c0268eb2441ddcfbb4fb72da0e43b14c86c27e2f97c4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_wild-cell.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7e523d5f90b1b251f28d1abea11097ced753a095cc957aa90702b3c6178ef69e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_wild-cell.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/319431f10fc7e923be018f94a107d3c9fecc4e040fddb8d2092db2a5e6042dd3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_wild-reel.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/01d1cc084a8fd8ad200ae2b5b906638044c463285a54e8e680fabd064c055c56.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_default_wild-reel.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1b74a17f6c082e6a4a515d0639f37386a8ef880b6b0c4bf1acb359fd35de6e1b.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_low-to-high.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6fdc68ec9b28eb144ff8eb340ddadd36ce77387fef95575e290818ac929ba688.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_low-to-high.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/da9bd61ad0a4464f3eb8aed93d2d97c88f5c3fec2b941183a43f97af4216ad35.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_sun-wilds.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/69492ecdd7684d9bb2b90546a1420e962138418249a77e5394efeed0a50eaf07.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_sun-wilds.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/13694f17cfa8161c0f7fecddbd646337b9337642fa610af22de253428bab329c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_sym-to-wild.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/23eaa92fb652a7b3231f890d2075c4ae6f6a333d40c4e8d399fc55b784096a8e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_sym-to-wild.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/128c341577ea792f81b0a177ca364b01c7b5968dfd714812485813ce5e0aa223.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_wild-cell.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/efdb7f1197ccfd71c805c7a9589f593269f6e6e4471ff09fab9e1e40d92ae6a2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_wild-cell.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bc1a673d09f85128da90f771035652d026933fb0b4c42e9e6d9e344b49d90cec.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_wild-reel.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/dc5b57f08c824743de4d81f99f5b34861caef46b6d9a9db8c8b5f37935472eea.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/random_bonuses/bonuses/bonus_icon_double_wild-reel.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0a26712d1c2f8a1c2ed716e7b2aa8e11b1ff1dab3cf0c8ca04389bba49c3f007.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/active_eye.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/eef5f75e3050e3b58768d932c5b233f82cab0ae637015b94d5fa93e0e64609a9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/active_eye.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/324c81b234e187de68c1ae2c831b26ef019e2e6d6510a3789734fe410db45fdd.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/not_active_eye.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0288d0f6a269578486c40a13890dc7d2d3cd379cbcfd73ad27f9129bc52ff2f7.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/not_active_eye.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d77a620e55de656273ea01defecd6da9ba0dede13d1ecfe822eb598223eb6ae4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/glow/eye_glow.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9336432d80e1fb5084eed2de5797b12417dd961a2b399ee18a0e50b43bcbc891.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/ra_eye/glow/eye_glow.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/60b9177b930198621259d94f29dd163dfb5d6f65669eb08d67f4156bcc5ab0a0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/placeholder/placeholder-loader.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d0d01c6ffc48aec797c49166d3d477a33d982aaa69ad563f0adf181b62e549bb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/placeholder/placeholder-loader.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bcccb1f6be7186d91fb8868864b039d3c1c2e3b2bcb5c6722feb177547126d73.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/amb.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/65dab87c6076f13721da3501b014827470e167b4059d8cced3c08482ee46e81a.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/amb.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ca600e2bf6c158904ced32fa25bc4091db51fe88653aec1f342ad0ed0b0fefc9.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/amb_bonus.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/093ec0d647b7d376cdaf6af67d76146010ba57d58e029f9655cda96514ef385b.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/amb_bonus.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fbe647b8cb014d1b1a316f5685e7bbbeb4a021f1c4f1b1b2ae0a91365cca71f3.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_coins.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0795822008a2991b71632e9fb7747fb42be16c593800426bee7cc9fb3d10698d.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_coins.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/119844c2c65fc70a5694cd4d687916b12c64a0e26c4bd76643ad86699bf1b88e.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_music.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8157703c9837981b736364a7e40abac793b147448d269cbd5c9dde5b2cb39e85.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_music.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/29bd26171e3d7e6235094aabe9ebde764d425d5685f66219efe80c6d9f92d34a.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_music_end.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c294145ac24a68836f7e5f0b920320d45bad5d1729ce95647c6f17b5ed5677e6.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bigwin_music_end.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9fc7516603691c935467ffa6ffd795b047b34383b775c8ce930719867bdf67fd.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bless_wild_open.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a47085d897faf870d87bbfa3bf0d4b2d3c38403afe29da94bdfd1c1bbfafcec0.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bless_wild_open.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ea751017b40b76a7ff4afdaa7f9c214a58a45374d75cc29cb3a42c1ceb555935.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bon_total_win_pop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8e8f6e2be18a19ba45b4e54cbb0fa68e3959890e8d89ce8696a3074869dffc7b.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bon_total_win_pop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9fb0e4093c97275125dbb4d0df99ddfa130fc158dc79b71a49877e40b261bb10.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_bar_purple.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/802ad9ab700e650f59c1d4296f25586e229b75f618f807c336b9c427e3d0d335.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_bar_purple.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c956253f9598d196a29a7e69d0f121fd907be21ccc6159490cb67f374386c050.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_bar_red.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cb5754f6d65978260028796efbc334cabd435d83722d6d9f261a430afc911c75.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_bar_red.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e0eadf887bd582588a173d1492052e8c29b10f636dd137a61099324c5ecb4f33.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_btn.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ba90af0476a6cb6de945b4f184b1d7aeb23919a40d535542ef2614060ae5b4ef.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_btn.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/312a7ab88aa39c4e9298ab14416b3bbde4bbed1793ff2f4738c92113f712bd6f.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_btn_hover.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/535d74a5885e4ba3fc5d3606d672cd49d27da740a93d82fca1ea47206f43ee0f.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_btn_hover.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2718d06744c502684c19697c73c32030c5b8bbaaa682b867e62d2e29a514643c.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_music.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3fe5702517700822ac125ac0cab5df899561ca3fe5b7ac8e52d7956d16d590a3.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/bonus_music.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1331cebb5c0ba006d6c13b2c373191c42209b321222184e114bc160e8d5a424f.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/cell_x_counter.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4f02d1ba685cbc4285de7c9ca5c92abd4e0cc6e14b1b3b1858ca828cadb98acb.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/cell_x_counter.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c952527a2ce436a89e0cad38d6082b7e2eddfa6622fbac4ba560a80223fc8a2e.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/choose_free_spins.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2d0ddc46f8ea3e495de275b14d15c8d4bd7d00d768c3aebf76f3373138d33140.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/choose_free_spins.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cdbfcbd79fee5581d02789d7adfb72026b488ef9853444f2142b5116981b6d71.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/colossal_win_coins.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f8d784578080df0cf81431d6d0ca4890c9e590a103eb0ca9b08a4bff80224895.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/colossal_win_coins.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d7e6551f148872e17301d2358756e98d2da49dccee17dd21cdafaba10a666d81.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/colossal_win_short.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/479b7c3962dd7f97c782e290399532d28a65de3fef77e53635f071019d063200.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/colossal_win_short.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b919e8780107d3f961d2c4a3e04a99e854e8c10c1edaf9479f1db9b8986f343a.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/count_end.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/80eaa9fe2f1551f33af5482e7a8be07a9926594cff2e2a0353dded27cd994aaf.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/count_end.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5f9c281f91e3176f8f940a568c862643f2a9c9d9036fa67aede86cb6d16f45d4.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/count_loop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d89b755890bef76459edd29f95113fc38361993c1bff2fbcefc0fe918e7a6a3b.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/count_loop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2c089379c610f314e3cb7be10100014185731e146d7a7f488c98c924d9bc3458.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/door_move.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/12fd182fa0aee04af0beb62fb6779f6419f31096766bdb2c51782d7969190f82.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/door_move.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7bd5376fd309efba46bbaba9157e57494b857a377df00981ea2aa12e245d337d.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/dust_fly.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a45b8e5750e106002d28b0170748bfa207c78637f4c7fce81165b2e53ad8ae2f.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/dust_fly.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2cbfa6cbc0ac2216cd613990205331ace6c926d1653d94766dcd00f6472b9f0.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/epic_coins.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/015462bf88395ce48bfd60a7cde8dd51a58f66ed4fa6521c1181389a717953ac.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/epic_coins.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/354b9a61f499ecc1cd7725928ce45c90373b262b3f6b48f8ba4a0fb580a60a8f.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/epic_short.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6e71473fcfdaacda2171817e530cb35877aa738cb762f408066ae8e5db8b08c6.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/epic_short.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/71360f1286ee0000efcfde5d9b162a4214bd72305d96681c8d6d5fb0d240ad91.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/feature_fly.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/35f7ff74be52cdf8bf842a49474abdcaa539e68d113f9e8ca68baae6c08bf208.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/feature_fly.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f8f29384250465a3c1069fe38de93bd743204f400e943d8a3786abe33351abb6.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/feature_red_frame.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2600e76ba6ec0d704b277772db82e0dd21e61e129f064b4d482057145a27c382.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/feature_red_frame.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/89ecdceb9631e868be4659c5052f2948b43a8ae73e4bf14214a4a894bc27c8c2.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_1.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9dd7721213e1542af6b5a93a118e204287431451fb3d37e111e1eacfb5e30e06.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_1.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/906ac70a3ecf4fd95a6a9dba20ea2cf86406a4d8224962ff7b872df238132062.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_2.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/803cf1090e54e86c575e66663d210f050152ae7f8a1c8a85c8c9d32a8aefd44c.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_2.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/89cd6c8df536de7bac267e35cad9d0417c513e83e1e9e3dc02a1ef6fea9a99ba.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_3.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8abd2282e9d9b28c96a1f04966966c7af8fb7e9d0f923efe2d8b98d76608cd1f.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fill_bar_3.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ffac0e73395db565fbc3a79e8aa80475a77ce9b12b6696a3b84c54247bb14c27.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/free_spins_received.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e0e65abd53e9b63c0ade2301c47fb296e0cf3e4b664975e1592db3f16b011f35.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/free_spins_received.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/139a66750378230a1a5acd2ff5f5276c1644fdc752db7b88629ed3453843fe25.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fs_window.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/22fd055f1bfc9813170003bf1060e4a6d7107397c6204e66a727a2cee93025d2.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/fs_window.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/85daf565dca2f41fd3124a6a58d63f52d158ce28f7c91530b149c3a2adc192ad.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/idle_impact.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a6264989ef2299015a03f0ac7c2ec8e1b5626b55c6888aeeb4d8f7487aea036a.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/idle_impact.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/832f8905e5bc6965978ab228cf4512689a275a945ecd9ea2b30f085359132be5.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/main_game_music.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2660c73e720ccc44d9db25fb27001d8cdb839e62c1783e5477cad03cb8091ec8.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/main_game_music.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/71aa23eee879d468dd1d69e5c37514539cb9c88f5b5f5bfef125c219b3684fc1.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/open_wild.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/98b301f8ed40cc9db289c2180360b32378816be99557271275d838f5828bf6cf.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/open_wild.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0c114d6ede51d9115ffa63f2bece72748baf814b724cfd1d4ff5f2e390baa198.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/quick_stop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/02bf4239c717fbededa535259af08e5ddaa70dbb2d8497e2037d5164a42ef779.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/quick_stop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7322644718c15db2421ea718231d177dae9aca6b5d4e8de3c069e5eaded63f78.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/red_bar_rotate_loop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ad06ab95cabc553e7565c1ee112a1c2e6a1e20f84bde8499bfe24d07f8659683.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/red_bar_rotate_loop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/700432d8aca2b1cf1a2d9093e57e8c3da34a221e00df870234f861c308fd037e.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/red_select_feature.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/25e0824aaa0b9965a724033e521158cef4fd155ce72acafe462760ec3b44ad8a.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/red_select_feature.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/64209d1a5ba56ad660d3cb230028009b0c790cd62e0a621d3aa4d88cfc2448fe.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/reel_rotate.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/77284c3a0be53ff4dd433b4879d5d16fd839e3df6fab153ac51dcfc083e4fedf.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/reel_rotate.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8b2e1cb01a6d3fdb66de662844da57634c7d5624f898fd1a3e1b744108d7691b.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/reel_stop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0b9acd8a346da8972bd740661a2330ecb9997a57e2db18ceb3f1f571ac876ec4.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/reel_stop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/561e8df09ec9096634212f6ac3fc76532e254687da28050cc2bc5c2f3abe87eb.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/spin_whoosh.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c6a63dbe22cfbb393fc18f046f819cdc01094751d803d3732c04c0a1ad270d9c.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/spin_whoosh.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7d07926f03c6c5cee960b063fbb79fd2c9c2a1a963072ee803c64bd1b0e7323b.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/stone_rotate.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f7d15fb54835f4cea3e7288eaa6b4f06a5947a45589c64f58010661194990b00.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/stone_rotate.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/87dd460a687c119757b0997bb6af242cdd173fa234b5942e7dba40da2fb7094b.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/sun_wild_transform.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c7ba56918001e1c89003ead2221310b0879180cf7c5d2510e9769a1821bb0586.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/sun_wild_transform.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/97d867b811ce2d99221d3b356e799d5c977d070d556188f9ad2fddf8cae69777.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/transition.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c71f0cb1d9b1338716d2cc6b0cdb5005cc0ed15056888591f7cd1d3a5ed4baa8.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/transition.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ec0e0926f76ea72f8c1329c52b20457510f98c220d13673c5d5ec4aa9720032e.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_active.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5ff599ef06e5d341de2bc9ecca6e1adc664ea191e70cb482a980f2a98df9ac25.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_active.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b0e7375fe577a8e54692ff20d8cc38c1201bebe6a5e598e2744ab69bea70f6a9.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_key.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9646e7ad60e73f5f4f2c46adec01de4c45a3dba356890a30378838d7bba8533c.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_key.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3b23afe60b94d43bbca76bda53fec28292ed71dc7f850076c27050533e1906d4.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_end.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1c3187570d9c90dc560c759eaa8cb1e04cc6bc0de6be48695ab89f21f20d1813.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_end.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ba0c00681859cadf8bdbb8e80aef899572bcca378f194d944be47c4bdcf9fa7c.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_loop.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/21971bed078cff3ca846567798f2b2c2464699c98b584ed52ceed591fd0635b6.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_loop.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/81057e358e3c4fc31992c4cc6e19211dc117b0bb665ebd017c3cc47a83d4e1a5.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_start.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/94cd09a988587190b2e14ca8bf3df34cba997946a2925626d04b9577e4787b95.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_music_start.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/13dd379d9d3150aeb9231b36fa317ada4d8e0054d71611e44a242712f38507ee.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_open.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7c649d4a8f5115836349354ae6882ba7ad0d69170dc9f17a94380864316a223b.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_open.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cdc1501e7ff5d1d04b7ff7f5505fca2ca821eea5020494dbc736e52650af8f8c.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_reel.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0cc405f708f7183f2fb4b1e53f8be2538a4a97e533c07954d7cc02565d0d32e7.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/treasure_reel.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6d19c99288f4e1bfab2b889a90e8c615cff1ff94a6172772a21e8bf34e3c97b6.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/wait_free_speens_music.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9a63bcb17339abe5e9941833eb49d1589c21e9fb0b7b0edb0f1b7440cb14e3c1.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/wait_free_speens_music.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/61616abea0d1d8f89cac1aef9c6263fb0587c4c8bc1b5b0cda6a11052bee1ec2.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_hi.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/de647ada786d74778a9772cfc7fa08011d0f1adfcb221bf9dffc8f1d2b87b9f9.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_hi.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bfd288c643547ec9f75f7f4997816d67ab4233ae7d698b4a399bdef0c8ede16c.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_low.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/62309975cc8d76470462fa248c02f2daac7001dfe607d95ddef38340bfd52b7c.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_low.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/33a0032758b4e53c01c79152e9fa955f6aec7f82bf5f54beaa53718c2d0986a3.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_med.m4a",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5954538a569fe3cecf578132597c13c529bcbe493a0afcee6743cd037d6bb52f.m4a",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/music/win_med.ogg",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f607810e3450efba1f809fb89700a8e24a32b0d9a3eb2b960434b3f4b7b9144f.ogg",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading_bg.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/469546c1644ef052930770491e44f73185f79e817567691f3c38c9fd7c238017.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading_bg.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/2f32d239a2ba4fda13b4ce397117d95544c0406673bc109e123d2531ff8ea378.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading_logo.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/90dc82d3e9b98abfb33bb0a667637880d0aaee259d41d382251f2a6e01bf89c1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading_logo.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d5e958f9ad7c250ac84d4530614d6ba5f2d58140bc556ffa60fef5ff09a722b0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading/egypt_loading.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3b365348148d3e57a2c6a37997ed254cfc4165d2077a8584afba723a7de81da8.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/egypt_loading/egypt_loading.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/46c21afc3b22315dfcbee1dd2ec3975b1f3b627a430f7b15f0326c5dd2b2e157.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/creators-logo/bambuk_logo.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/982dcc89e8b4ee0d473f69b6f3b4dc11ffba8637ac697e227efb8592ff5e795f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/creators-logo/bambuk_logo.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1aa08fb44f031401eec784cea2b6bc2a5dee4d9c29a8cba44e0f9cd540944672.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/creators-logo/spribe_logo.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/737b2760fbfe429a06616994f448912d81b6da3ec4264a7a581815abab4feb7f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/loading-screen/creators-logo/spribe_logo.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6ad878647bc1c24374846c731c128faab1c284c7e333887cc7d790c2fad95077.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/fs-bar.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9a573f6ddef831bb812362138968a27c3cb26fe68a4aeec29db6e7e13337cfc4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/fs-bar.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/74f4db7424c6570cccf649b16920acf3597d0efbb772230a6551bbb74d2bea4f.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/start_FS_window_export/start_FS_window.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f5f704a0cda7ffffc07975e09a5ad184f2543bb58270a77f1a442c57c4a73349.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/start_FS_window_export/start_FS_window.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/882cf914d1fc1c83927c04ddad6e3a20a95b88ce85512f1ca60f4310bcab0ac0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/start_FS_button_export/start_FS_button.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/02487744fc8384257734a9c47d3f970469a3567d866e7fd0905c2d2e3bc164f8.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/start_FS_button_export/start_FS_button.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/effbb404fc8e558ed7c3576d7d98b16d87ece440587208e5e81e40861d7cd9e9.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_window_export/choose_god_button.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/70575c74b0b62d1a4c87f6edb3edae6ebadd47aa2b6066aea9712915a3fb6dbb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_window_export/choose_god_button.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4c00189a2bae5cdffd78276d0ce22fbb82b5fa3a1139de6f47f83af131c3fefc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/choose-fs_ra-btn.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/dcf5b61bbd8c0c188d312bbfdb69969c0649bdbb6ce4ece991ab10be606eca02.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/choose-fs_ra-btn.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8f3f74b8c74e14a8e4d0a4efe0fa4545c53ffa9439412613efe3cda289304294.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/choose-fs_nephthys-btn.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/18a0b3c04c9a9fd018933b8bf7e059792d9f9ac5d2a609676530080e93f2e6a9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/choose-fs_nephthys-btn.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af8048cb41d037a2ab6df96321fd547ece8a1cb79b1acf27f960434d85ba8520.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fonts/JockeyOne-Regular.ttf",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a93e84eed477955481018048e0e2410412cf15285d46c0b04c15b9215d75a36f.ttf",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fonts/LinBiolinum_RBah.ttf",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4e0c3301a562f9f5a75e5eb59e35a3505cd374184df939afc80778242b4fd2f5.ttf",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fonts/LinBiolinum_Rah.ttf",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f7140084369db686c71e522f0e8de148f0f3f429310376d5f52325a9f0955ba5.ttf",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fonts/big-win-font/textFont.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/889451acfbfdc34a82f7f9d24da284d2237ce6c496125d230335320cb8cf55ea.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fonts/big-win-font/textFont2.fnt",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/5e24e4bfeb13654a4a656f777b699021761d33063dff0db27fef2d1a522b5348.fnt",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_icon_nephthys.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/45298c224ee8529c2eef029d28283187421298a882d01d4d03bc617c973e6288.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_icon_nephthys.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a74f9010997c3ba18fa45371b0d4a3d33dd94a6645f558426365a5a3bafbd3ba.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_icon_ra.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/74dbc0eb98d3f70c53279a558cd024b7e0ed3bf4f95c7d7f737e3e47d507b963.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_icon_ra.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c7f4cca30c5718f20bce23135d5ec957e1655796cc04101e5a6e08687c54f070.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/god_statue_glow_export/god_statue_glow.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/272a3e2f69e0190d14ecc40189e961a8bc213d3df3d454d1036f6da0ec76d1de.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/god_statue_glow_export/god_statue_glow.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3bd2f632597b15bbd45beb9ce1c145638171ece886fa735fce5228cfbbffb584.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/left.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/32e3386a2be4f139949a01ab556fdc7550348d8845e1fd2777fb7b58c0102587.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/left.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/31af57e6fdd5c7d65d5a8b685fd6558a7c59c8a84c2db7d249c9c5c48bf76308.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/middle.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/454737b8bd8a5b174dff455c8fec8c2de6080da93d87885e42f19f9bbfb15f56.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/middle.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/bf4ae29259c75e2ac85c5c80f1158c86e216e0f5374754529150975dad2b63e0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/right.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/84c0300bf7d03117897335016f1a1e14638e1cb98ff2d383330e0a991d172fe9.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bonus_base/right.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/282cdf6e41928b4d6d77a84ce18ecda5393ed55485cecb3ba654261f68047c45.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless_bar_export/bless-bar.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a1ecb3c703ed61817941023fb9901a5981ac881868e132b448ff123707258763.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless_bar_export/bless-bar.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a90ad1b38d1ff5fadd0480c5e23d12ca7ab5a53b241753ab08764c4e0ab4c9b3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless_bar_default_export/bless_bar_default.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e7e42556d636670dffb4a3fb29a1a51f9b50dcc1d1c487c8959c0b4d837fcb61.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless_bar_default_export/bless_bar_default.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d4d720f0dcd8f84194849bb85aa002850b10e434cd1cc86e6e82241207bd7ac3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_smoke_export/bless-bar_smoke.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/fcb25890bb7cc20c82b3d8fd7da0dacfb38aa46ffd44219064c73f53537aef8d.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/bless_multipliers/bless-bar_smoke_export/bless-bar_smoke.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f3ff83bbaa524d8dd5bd751452d670671fcc14c8134a2faecffb54382b3d53f6.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/hallway_transition.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6f28eba12c82d1a87d8f64d3e60d4de058b8f31bd69d1ead5eb8d10db5481b33.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/hallway_transition.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8aba8a6760fb6053ae496a2eea50c48eb4f58cb6681751251ba48bc2ee7e3a66.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/bg_mob_main.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/eacc9f9cd0174ec29d733591fb6cb7dc224a8f143626e2ff8a4a64cc34aadc92.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/bg_mob_main.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/36975c669dda07612f89771fa82001417294ae283afdb48b5b7d5c9f459357a4.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/gates_mob_main.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e82c2e7dd6b80ebe562eb5b97a2b33f5a11b3ffc1dd0ba86019b389bbc1f7cc1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/gates_mob_main.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c312a94b33ddc3d4ed4ccc18a28181ed1655315b094b52430cb91978080ba68a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/statue_nephthys_main.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c44cc2ce64583693dcaeb8658c6b280d60939974ecb00108e572b308381bdd9c.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/statue_nephthys_main.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f970bc2510e117e1ca2c5cf7fc937cadb1d8de93e4f8e82525ada8d9f2a18ba3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/statue_ra_main.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/66759f6dd4fd9c797ed6b76f9383c07a14303a499b67e3922405d7a5e66b727f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/statue_ra_main.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2ab77eb491bd12224ba1ccc32335a1669491a970df136670ac4f1d5ebaf58a5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0ba974b87db22dde72afb46cbacb98cb4c91f546b21579d9fe537bee50751726.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship1.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3fe29b304cd5f6a3b60c09b3dcfb57c3acfb1a56cf5d9ce780e0f14acd472429.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be31147f06d49024f6c4a382baa47252e56b417f2ee549c1fbf9feae99eedbd5.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship2.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/8371f325fa0144a802cf10da319d35f36a2d7de51f63c2831581305d9b909ad0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship3.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1bbe11688e2b16afe54d7a1b337991374ae65018b43e93f1412edd4877d82e4e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship3.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2c88df82d83869a90bc3ff9fbbe7ed7312a343640c110afc3f57366eb402d64.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship4.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/19087bb0cd969379f15e46f297174196a3f9bcee9363fa0b1027e8289a19c859.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/main/ships/ship4.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4e8bf1435ad83263b1b16aabc38979bcd7a46f39f8a60c3deafad565d389fced.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/bg_fs_lands.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6ad913f73e765cfeedc139ab2973e7495686d5e1a9df640ac13705269f1fbbfe.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/bg_fs_lands.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f0c204c90c7d9e3c4d6ebe7690015c992be856ca8bc374096451178b622455b5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/bg_main_lands.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6ad913f73e765cfeedc139ab2973e7495686d5e1a9df640ac13705269f1fbbfe.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/bg_main_lands.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f0c204c90c7d9e3c4d6ebe7690015c992be856ca8bc374096451178b622455b5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/gates_main_lands.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/95d2fda89dad519af1a1941dfcf03582c1233236a4269ade111d848c3c856b97.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/gates_main_lands.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a647b129cecc141d1de29ad29ba8e97b76173f14720430b7ffb987ca9ee825c3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/ra/gates_fs_lands.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/95d2fda89dad519af1a1941dfcf03582c1233236a4269ade111d848c3c856b97.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/ra/gates_fs_lands.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a647b129cecc141d1de29ad29ba8e97b76173f14720430b7ffb987ca9ee825c3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/nephthys/gates_fs_lands.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/95d2fda89dad519af1a1941dfcf03582c1233236a4269ade111d848c3c856b97.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/landscape/nephthys/gates_fs_lands.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/a647b129cecc141d1de29ad29ba8e97b76173f14720430b7ffb987ca9ee825c3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/gates_mob_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e82c2e7dd6b80ebe562eb5b97a2b33f5a11b3ffc1dd0ba86019b389bbc1f7cc1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/gates_mob_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c312a94b33ddc3d4ed4ccc18a28181ed1655315b094b52430cb91978080ba68a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/statue_nephthys_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c44cc2ce64583693dcaeb8658c6b280d60939974ecb00108e572b308381bdd9c.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/statue_nephthys_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f970bc2510e117e1ca2c5cf7fc937cadb1d8de93e4f8e82525ada8d9f2a18ba3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/statue_ra_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/66759f6dd4fd9c797ed6b76f9383c07a14303a499b67e3922405d7a5e66b727f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/ra/statue_ra_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2ab77eb491bd12224ba1ccc32335a1669491a970df136670ac4f1d5ebaf58a5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/gates_mob_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e82c2e7dd6b80ebe562eb5b97a2b33f5a11b3ffc1dd0ba86019b389bbc1f7cc1.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/gates_mob_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c312a94b33ddc3d4ed4ccc18a28181ed1655315b094b52430cb91978080ba68a.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/statue_nephthys_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c44cc2ce64583693dcaeb8658c6b280d60939974ecb00108e572b308381bdd9c.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/statue_nephthys_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f970bc2510e117e1ca2c5cf7fc937cadb1d8de93e4f8e82525ada8d9f2a18ba3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/statue_ra_fs.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/66759f6dd4fd9c797ed6b76f9383c07a14303a499b67e3922405d7a5e66b727f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/nephthys/statue_ra_fs.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2ab77eb491bd12224ba1ccc32335a1669491a970df136670ac4f1d5ebaf58a5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/bg_fs_anim-export/bg_fs_anim.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4b3a087f53321e82ea95ae8f93d1a86b90ed690c47477a46003502c0a2b5d8ed.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/fs/bg_fs_anim-export/bg_fs_anim.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/22d45fa59ad09efdd3c5724960b804909c1f7aa93ca6221de1d1b5cf03f2699d.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s0@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s0@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s0@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s0@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s0@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7fadea8fe9eabc23ddc5629a2fe8c63cf3a49477ca85f6f1984699b06c1f57e2.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s0/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/541e796ed36fcf1dd672c9fe6f313e939218786a2bc3e4dfdb5805912293bf02.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s0/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ef451cd1f82c48281b5da4d09de93dc59044e6c182534a0644116f6dd50e5ea0.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s1@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s1@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s1@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s1@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s1@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d15b32e34e34d34b8ab60489e6f77abcebae0959761fd7d1dd88188785bd54d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s1/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/17ac4c28000caad948eff7c3435ff84b61864caf451b75a585805fd0d5963c8b.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s1/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/cae8b3ef194b65c370d583bbb68f9ec260fa97084cbbbde33db3c7afc5f22e59.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s2@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s2@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s2@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s2@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s2@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/d775e1e293f49e6cf8178708a4a398b68db9cf52601e6ad19bc2dc01c4177b2e.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s2/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c5ea824c393637a1bed30b660e7553297e06fa0837d48ae9dffb820345027de7.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s2/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3a057f284ac4c7f9ccf7d1e470d3945fcadaae8964018ea9a415fff7aa328078.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-s3@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s3@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s3@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v2-s3@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-low-abyssinia-v7-s3@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b81884172f57cbc06b40165fbb864ff0e893fe80369c912d91e090b42c8334e3.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s3/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0321b84940fc9835d4ed37e07560ca7263e009cdd770118662a67caaafd996cb.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/symbols/spine/s3/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/3f93bf16e5dab8aa0f44bbad1aa6b928546c940a257cca88e64997fdbe65aee5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s4@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s4@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s4@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s4@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s4@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/1f0392c29b01dd3d1125410f3a5934a455d3f3c9e8086dfe08337469ccb0cd6b.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s5@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s5@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s5@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s5@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s5@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/ff02c93c8e9c781ad845f1968a6a4a534f15c1ce97a425e210837e8334f138d4.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s6@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s6@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s6@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s6@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s6@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-s7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v2-s7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-high-abyssinia-v7-s7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4bc3b5317b6cf67ec6c929a2eafb9c47b35889934964a1ae48eb2243b6737c7a.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/7d0fd87770d27ddafd1f602c8993e7f9c762f4a4302042764673f30f781fc7b1.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/king.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_ra-btn_export/king.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/0b5a5431571fcbaab541e4835e24680a5646f040f882c471a2a22ab2fe7c590c.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/original-fx.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/21c9ff909e18bd6d6d950e0c4de1fa0e76016417403bfd89dd8fef65bdfff652.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/original-fx.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/04992132eb3a697d39d410ad3d66801ff0584cbba0e5ae4877d669c8716d672b.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/king.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/fs_transition/choose-fs_nephthis-btn_export/king.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/af9a87a46e8f266399c828369c96a1aa29b8a9e3c04aff9e424f937077f2a6fc.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/statues/lion-left.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/66759f6dd4fd9c797ed6b76f9383c07a14303a499b67e3922405d7a5e66b727f.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/statues/lion-left.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b2ab77eb491bd12224ba1ccc32335a1669491a970df136670ac4f1d5ebaf58a5.webp",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/statues/lion-right.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c44cc2ce64583693dcaeb8658c6b280d60939974ecb00108e572b308381bdd9c.png",
+      "permanent": false
+    },
+    {
+      "source": "/__spribe/game/assets/backgrounds/statues/lion-right.webp",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f970bc2510e117e1ca2c5cf7fc937cadb1d8de93e4f8e82525ada8d9f2a18ba3.webp",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/ge-logo@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b5a1b09beb39af3f8846d8edde67c1ae30417b74984d1dfe25a20f91bb930786.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/ge-abyssinia-v7-logo@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b5a1b09beb39af3f8846d8edde67c1ae30417b74984d1dfe25a20f91bb930786.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/ge-abyssinia-v7-logo@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b5a1b09beb39af3f8846d8edde67c1ae30417b74984d1dfe25a20f91bb930786.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-choose-a-god@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4ad372afb10ea098d9d7282c44192a59ecfaf6ab4f64ef8e57da20bed56ed9b1.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-choose-a-king-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4ad372afb10ea098d9d7282c44192a59ecfaf6ab4f64ef8e57da20bed56ed9b1.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-choose-a-king-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4ad372afb10ea098d9d7282c44192a59ecfaf6ab4f64ef8e57da20bed56ed9b1.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-bonus@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f54d5b37a3368577923e8982b48266d730a18b4afa9e0410eaf2ddba1098e1dc.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-bonus-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f54d5b37a3368577923e8982b48266d730a18b4afa9e0410eaf2ddba1098e1dc.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-wild-bonus-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f54d5b37a3368577923e8982b48266d730a18b4afa9e0410eaf2ddba1098e1dc.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-wild-bonus@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f9021e3b8a45f6e7fa56d2129f2bcf1f28c6dc6f77c2fe76510354884c36f973.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-wild-bonus-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f9021e3b8a45f6e7fa56d2129f2bcf1f28c6dc6f77c2fe76510354884c36f973.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-wild-bonus-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/f9021e3b8a45f6e7fa56d2129f2bcf1f28c6dc6f77c2fe76510354884c36f973.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b15c3b92da8b6fcf014066f7babb926e660c5d2a9dbce5f5731dcba6bc4dc82d.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b15c3b92da8b6fcf014066f7babb926e660c5d2a9dbce5f5731dcba6bc4dc82d.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/b15c3b92da8b6fcf014066f7babb926e660c5d2a9dbce5f5731dcba6bc4dc82d.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-wild-to-bar@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be25d669458aaf07c019e6898a4f62bac4543d491b44935aac0ef74d4b14abeb.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-wild-to-bar-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be25d669458aaf07c019e6898a4f62bac4543d491b44935aac0ef74d4b14abeb.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-wild-to-bar-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/be25d669458aaf07c019e6898a4f62bac4543d491b44935aac0ef74d4b14abeb.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-multiplier@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4422745a1a3973284be0e41339652de30278f50b3d33f50490cd5050dc9ee8ef.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-multiplier-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4422745a1a3973284be0e41339652de30278f50b3d33f50490cd5050dc9ee8ef.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-bless-bar-multiplier-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/4422745a1a3973284be0e41339652de30278f50b3d33f50490cd5050dc9ee8ef.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-key-spot-activation@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e2dbade1ba4b962b8aeb04e770223edec26723c455e256714dddb8ada790e793.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-key-spot-activation-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e2dbade1ba4b962b8aeb04e770223edec26723c455e256714dddb8ada790e793.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-key-spot-activation-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/e2dbade1ba4b962b8aeb04e770223edec26723c455e256714dddb8ada790e793.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-symbol-lands@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c04267c959d36d0f8f56b83ba6b53da1b07ac754600cc76a88ac1bd7774fbd2a.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-symbol-lands-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c04267c959d36d0f8f56b83ba6b53da1b07ac754600cc76a88ac1bd7774fbd2a.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-symbol-lands-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/c04267c959d36d0f8f56b83ba6b53da1b07ac754600cc76a88ac1bd7774fbd2a.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-task@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/802f71917dcf4acd9c4f199f92b272a7ada95e9cde19dd71c21793e4e3118031.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-task-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/802f71917dcf4acd9c4f199f92b272a7ada95e9cde19dd71c21793e4e3118031.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-fs-treasury-task-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/802f71917dcf4acd9c4f199f92b272a7ada95e9cde19dd71c21793e4e3118031.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-small@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-small-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-ra-symbol-small-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/6756470b2a70718129ead9ae3a1a24935c04ac3645d6ca1b1f2deac642240137.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-symbol-small@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-symbol-small-abyssinia-v7@x1.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    },
+    {
+      "source": "/resources/images/gates-of-egypt/paytable/ge-nephthys-symbol-small-abyssinia-v7@x2.png",
+      "destination": "https://cdn.orginals.io/gates-of-abyssinia/releases/20260909-v7-stone/assets/9af85741800b31662b3128d206476c196e9b723a94c6bc419380efe8d5aa7488.png",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://api.orginals.io/spribe/abyssinia/browser-launch"
+    },
+    {
+      "source": "/launch",
+      "destination": "https://api.orginals.io/spribe/abyssinia/browser-launch"
+    },
+    {
+      "source": "/gates-of-egypt",
+      "has": [
+        {
+          "type": "query",
+          "key": "operator",
+          "value": "abyssinia(?:-demo)?"
+        },
+        {
+          "type": "query",
+          "key": "token",
+          "value": ".+"
+        }
+      ],
+      "destination": "/game.html"
+    },
+    {
+      "source": "/gates-of-egypt",
+      "destination": "https://api.orginals.io/spribe/abyssinia/browser-launch"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "no-referrer"
+        }
+      ]
+    },
+    {
+      "source": "/gates-of-egypt",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).atlas",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+key.png
+size:256,205
+filter:Linear,Linear
+key-front
+bounds:185,72,69,131
+key-front-light
+bounds:2,36,101,167
+key-front-lpart1
+bounds:105,2,69,112
+rotate:270
+key-front-lpart2
+bounds:93,76,90,127
+rotate:180

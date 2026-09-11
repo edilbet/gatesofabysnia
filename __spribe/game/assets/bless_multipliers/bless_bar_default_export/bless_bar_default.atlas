@@ -1,0 +1,5 @@
+bless_bar_default.png
+size:80,79
+filter:Linear,Linear
+default
+bounds:2,2,76,75

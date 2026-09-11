@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" data-critters-container>
+  <head>
+    <meta charset="utf-8">
+    <title>Gates of Abyssinia</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="favicon.ico" rel="icon" type="image/x-icon">
+    <style>
+      body {
+        background: #000000;
+      }
+      .main-loading {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .main-loading > .spinner {
+        display: flex;
+        align-items: center;
+        position: relative;
+        width: 36px;
+        height: 36px;
+      }
+      .main-loading > .spinner div {
+        position: absolute;
+        border-radius: 50%;
+        background: #f01d14;
+        width: 14px;
+        height: 14px;
+        padding: 0;
+      }
+      .main-loading > .spinner div:nth-child(1) {
+        -webkit-animation: spinner-ellipsis1 0.9s infinite ease-in-out;
+        animation: spinner-ellipsis1 0.9s infinite ease-in-out;
+        opacity: 0;
+      }
+      .main-loading > .spinner div:nth-child(2) {
+        -webkit-animation: spinner-ellipsis2 0.9s infinite ease-in-out;
+        animation: spinner-ellipsis2 0.9s infinite ease-in-out;
+        opacity: 0;
+      }
+      .main-loading > .spinner div:nth-child(3) {
+        -webkit-animation: spinner-ellipsis3 0.9s infinite ease-in-out;
+        animation: spinner-ellipsis3 0.9s infinite ease-in-out;
+        opacity: 0.5;
+      }
+      @-webkit-keyframes spinner-ellipsis1 {
+        0%,
+        33% {
+          -webkit-transform: translateX(-4px) scale(0.33);
+          opacity: 0.5;
+        }
+        100% {
+          -webkit-transform: translateX(11px) scale(1);
+          opacity: 1;
+        }
+      }
+      @-webkit-keyframes spinner-ellipsis2 {
+        0%,
+        33% {
+          -webkit-transform: translateX(11px) scale(1);
+          opacity: 1;
+        }
+        100% {
+          -webkit-transform: translateX(26px) scale(0.33);
+          opacity: 0.5;
+        }
+      }
+      @-webkit-keyframes spinner-ellipsis3 {
+        0%,
+        33% {
+          -webkit-transform: translateX(26px) scale(0.33);
+        }
+        100% {
+          -webkit-transform: translateX(-4px) scale(0.33);
+        }
+      }
+      @keyframes spinner-ellipsis1 {
+        0%,
+        33% {
+          -webkit-transform: translateX(-4px) scale(0.33);
+          transform: translateX(-4px) scale(0.33);
+          opacity: 0.5;
+        }
+        100% {
+          -webkit-transform: translateX(11px) scale(1);
+          transform: translateX(11px) scale(1);
+          opacity: 1;
+        }
+      }
+      @keyframes spinner-ellipsis2 {
+        0%,
+        33% {
+          -webkit-transform: translateX(11px) scale(1);
+          transform: translateX(11px) scale(1);
+          opacity: 1;
+        }
+        100% {
+          -webkit-transform: translateX(26px) scale(0.33);
+          transform: translateX(26px) scale(0.33);
+          opacity: 0.5;
+        }
+      }
+      @keyframes spinner-ellipsis3 {
+        0%,
+        33% {
+          -webkit-transform: translateX(26px) scale(0.33);
+          transform: translateX(26px) scale(0.33);
+        }
+        100% {
+          -webkit-transform: translateX(-4px) scale(0.33);
+          transform: translateX(-4px) scale(0.33);
+        }
+      }
+    </style>
+  <style>*,*:before,*:after{box-sizing:border-box}:root{-webkit-text-size-adjust:100%}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Noto Sans,Liberation Sans,Arial,sans-serif;font-size:1rem;font-weight:400;line-height:1.5}:root{--attention-dot-size:12px;--attention-dot-top:0;--attention-dot-right:0}:root{--accent:var(--yellow-500);--accent-hover:var(--yellow-300);--accent-bg:var(--yellow-800);--accent-shadow:var(--yellow-500-transparent);--accent-rgb:var(--yellow-500-rgb);--free-bet-accent:var(--orange-500);--ante-bet-accent:var(--green-700);--accent-secondary:var(--orange-400);--accent-secondary-shadow:var(--orange-400-transparent);--danger:var(--red-500);--danger-border:var(--red-350);--danger-bg:var(--red-750);--success:var(--green-600);--success-border:var(--green-350);--success-bg:var(--green-750);--text:var(--white-950);--text-muted:var(--white-600);--text-on-accent:var(--black-950);--icon:var(--text);--icon-muted:var(--text-muted);--border:var(--white-300);--scroll:var(--white-300);--primary-button-bg:var(--black-800);--secondary-button-bg:var(--black-500);--mini-button-bg:var(--white-100);--mini-button-hover-bg:var(--white-300);--panel:var(--black-500);--panel-dark:var(--black-600);--panel-darker:rgb(26, 26, 26);--panel-solid:var(--black-950);--modal-bg:var(--black-800);--modal-backdrop:var(--black-500);--body-bg:linear-gradient(180deg, #0a0a0a, #1f1f1f);--grid-row-border:var(--white-100);--white-50:#ffffff0d;--white-100:#ffffff1a;--white-150:#ffffff26;--white-200:#ffffff33;--white-250:#ffffff40;--white-300:#ffffff4d;--white-350:#ffffff59;--white-400:#ffffff66;--white-450:#ffffff73;--white-500:#ffffff80;--white-550:#ffffff8c;--white-600:#ffffff99;--white-650:#ffffffa6;--white-700:#ffffffb2;--white-750:#ffffffbf;--white-800:#ffffffcc;--white-850:#ffffffd9;--white-900:#ffffffe5;--white-950:#ffffff;--black-50:#0000000d;--black-100:#0000001a;--black-150:#00000026;--black-200:#00000033;--black-250:#00000040;--black-300:#0000004d;--black-350:#00000059;--black-400:#00000066;--black-450:#00000073;--black-500:#00000080;--black-550:#0000008c;--black-600:#00000099;--black-650:#000000a6;--black-700:#000000b2;--black-750:#000000bf;--black-800:#000000cc;--black-850:#000000d9;--black-900:#000000e5;--black-950:#000000;--yellow-50:#ffffe4;--yellow-100:#ffffd1;--yellow-150:#ffffb8;--yellow-200:#ffffa3;--yellow-250:#ffff8b;--yellow-300:#ffff75;--yellow-350:#ffff5c;--yellow-400:#ffff47;--yellow-450:#ffff2e;--yellow-500:#ffff1a;--yellow-500-transparent:#ffff1a80;--yellow-500-rgb:255, 255, 26;--yellow-550:#f2f20a;--yellow-600:#cfcf17;--yellow-650:#adad1f;--yellow-700:#8f8f24;--yellow-750:#6a6a25;--yellow-800:#494922;--yellow-850:#2c2c1b;--yellow-900:#141410;--yellow-950:#000000;--red-50:#ffe5e5;--red-100:#ffd1d1;--red-150:#ffb8b8;--red-200:#ffa3a3;--red-250:#ff8a8a;--red-300:#ff7575;--red-350:#ff5c5c;--red-400:#ff4747;--red-450:#ff2e2e;--red-500:#ff1a1a;--red-550:#f20d0d;--red-600:#cf1717;--red-650:#ad1f1f;--red-700:#8f2424;--red-750:#6a2624;--red-800:#492222;--red-850:#2d1b1b;--red-900:#141010;--red-950:#000000;--orange-50:#ffefe5;--orange-100:#ffe3d1;--orange-150:#ffd3b8;--orange-200:#ffc6a3;--orange-250:#ffb78a;--orange-300:#ffaa75;--orange-350:#ff9a5c;--orange-400:#ff8e47;--orange-400-transparent:#ff8e4780;--orange-450:#ff7e2e;--orange-500:#ff711a;--orange-550:#f2650d;--orange-600:#cf5d17;--orange-650:#ad551f;--orange-700:#8f4d24;--orange-750:#6a3f25;--orange-800:#493122;--orange-850:#2c221b;--orange-900:#141110;--orange-950:#000000;--blue-50:#e5edff;--blue-100:#d1dfff;--blue-150:#b8cdff;--blue-200:#a3bfff;--blue-250:#8aadff;--blue-300:#759fff;--blue-350:#5c8dff;--blue-400:#477eff;--blue-450:#2e6dff;--blue-500:#1a5eff;--blue-550:#0d52f2;--blue-600:#174ecf;--blue-650:#1f49ad;--blue-700:#24448f;--blue-750:#253a6a;--blue-800:#222e49;--blue-850:#1b202c;--blue-900:#101114;--blue-950:#000000;--green-50:#e8ffe5;--green-100:#d6ffd1;--green-150:#c0ffb8;--green-200:#aeffa3;--green-250:#97ff8a;--green-300:#85ff75;--green-350:#6fff5c;--green-400:#5dff47;--green-450:#46ff2e;--green-500:#34ff1a;--green-550:#28f20d;--green-600:#2ccf17;--green-650:#2fad1f;--green-700:#308f24;--green-750:#2c6b24;--green-800:#254b20;--green-850:#1b2e19;--green-900:#0f150e;--green-950:#000000}:root{--loading-size:24px;--loading-color:var(--black-950)}:root{--primary-btn-size:100%;--primary-btn-border-radius:16px;--primary-btn-badge-font-size:16px;--primary-btn-badge-line-height:24px;--primary-btn-icon-size:42px;--secondary-btn-size:100%;--secondary-btn-border-radius:16px;--secondary-btn-icon-size:36px}:root{--scrollbar-width:8px}:root{--rp-image-zoom:100%;--rp-image-width:100%;--rp-logo-image-width:auto;--rp-logo-image-zoom:var(--rp-image-zoom)}:root{--volume-silent:var(--white-300);--volume-low:var(--green-500);--volume-medium:var(--yellow-500);--volume-high:var(--red-500)}:root{--vh:100vh}html{height:100%;overflow:hidden;position:fixed;width:100%}body{height:100%;overflow:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;-webkit-user-select:none;user-select:none;background:var(--body-bg);position:relative}*{touch-action:manipulation}*:focus,*:focus-visible{outline:none}</style><link rel="stylesheet" href="styles.b2e19f3e7aa8cae7.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.b2e19f3e7aa8cae7.css"></noscript><meta name="theme-color" content="#103d31"></head>
+  <body>
+    <app-root></app-root>
+    <div id="main-loading" class="main-loading">
+      <div class="spinner">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  <script src="runtime.cb0731e5e82fe418.js" type="module"></script><script src="polyfills.2b9be7ea465a6d30.js" type="module"></script><script src="main.82d18531559f9104.js" type="module"></script></body>
+</html>

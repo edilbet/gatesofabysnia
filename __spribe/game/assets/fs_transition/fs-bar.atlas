@@ -1,0 +1,9 @@
+fs-bar.png
+size:80,80
+filter:Linear,Linear
+scale:0.65625
+nef-progres
+bounds:2,2,41,30
+nef-progres-active2
+bounds:2,34,56,44
+offsets:0,1,56,46
