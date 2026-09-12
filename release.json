@@ -14,7 +14,7 @@
   "maxBet": 4000,
   "productionInstance": "kassino_le_catcher_etb_prod",
   "catalogSlug": "le-catcher",
-  "sourceRevision": "53a77efc6c6578736acdb2a6592aef726f0f22a3",
+  "sourceRevision": "d976040b6d6f2e4b8242e9e345b000ce7bf185a9",
   "backendRevision": "525a0e4395a9044aaad2cdb4e7a52475d6e3d5c9",
   "deploymentStatus": "Production",
   "operatorIssuer": "kassino",
@@ -26,5 +26,6 @@
     "removedUnusedLogos": 2
   },
   "maxWinAmount": 100000,
-  "freeSpinGemLayout": "gate-socket-centers-v1"
+  "freeSpinGemLayout": "gate-socket-centers-v1",
+  "freeSpinBonusLifecycle": "prepare-every-spin-safe-eye-cleanup-v1"
 }
